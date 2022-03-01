@@ -1,0 +1,3421 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay towards the rendring the first thirty Psalms of David in metre (of the old version of Thomas Sternhold, and John Hopkins and others.) Less obnoxious to exceptions, than it hath been; by moderate alterations, and amendments. And published, as a specimen of the whole book, done after the same manner, now in the hands of the author, a Divine of the Church of England.</title>
+            <author>Divine in the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22577</idno>
+            <idno type="STC">Wing E3297A</idno>
+            <idno type="EEBO-CITATION">99831064</idno>
+            <idno type="PROQUEST">99831064</idno>
+            <idno type="VID">187768</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187768)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2048:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay towards the rendring the first thirty Psalms of David in metre (of the old version of Thomas Sternhold, and John Hopkins and others.) Less obnoxious to exceptions, than it hath been; by moderate alterations, and amendments. And published, as a specimen of the whole book, done after the same manner, now in the hands of the author, a Divine of the Church of England.</title>
+                  <author>Divine in the Church of England.</author>
+                  <author>Hopkins, John, d. 1570.</author>
+                  <author>Sternhold, Thomas, d. 1549.</author>
+               </titleStmt>
+               <extent>[4], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the Company of Stationers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XCVIII [i.e. 1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Square brackets on the title page have been replaced by parenthesis.</note>
+                  <note>Wing gives 1697 as the date of publication.</note>
+                  <note>Caption title on p. 1: The Psalms of David in metre.</note>
+                  <note>With a leaf of advertisement bound after the title page.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187768:1"/>
+            <pb facs="tcp:187768:2" rendition="simple:additions"/>
+            <p>AN ESSAY TOWARDS The rendring the firſt Thirty <hi>Pſalms</hi> of <hi>David</hi> IN METRE [OF the Old <hi>Verſion</hi> of <hi>Thomas Sternhold, John Hopkins</hi> and Others.]</p>
+            <p>LESS Obnoxious to Exceptions, than it hath been; by Moderate Alterations, and Amendments.</p>
+            <p>And Publiſhed, as a <hi>Specimen</hi> of the <hi>Whole Book,</hi> done after the ſame man<g ref="char:EOLhyphen"/>ner, now in the Hands of the <hi>Author,</hi> a <hi>Divine</hi> of the <hi>Church</hi> of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Company of <hi>Stationers,</hi> MDCXCVIII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:187768:3" rendition="simple:additions"/>
+            <pb facs="tcp:187768:3"/>
+            <head>AN Advertiſement TO THE READER.</head>
+            <p>
+               <hi>IN this Printed Eſſay, (as well as the reſt of the Book, remaining Unprinted) the Author thinks fit hereby to inform the Reader, that he hath Governed himſelf by the meaſures following.</hi>
+            </p>
+            <p n="1">1. <hi>That in the whole, the old Rhythm, where tolerable, is generally kept: and where not tolerable, altered.</hi>
+            </p>
+            <p n="2">2. <hi>That obſolete Words are changed for ſuch as now are uſed.</hi>
+            </p>
+            <p n="3">3. <hi>That in other places, where the Language is good, the Words are ſometimes only tranſpoſed, ei<g ref="char:EOLhyphen"/>ther to render the Senſe plainer, or the Verſe ſmoo<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p n="4">4. <hi>In</hi> Pſalms <hi>commonly uſed, eſpecially in the common Tunes, there is very little alteration made.</hi>
+            </p>
+            <p n="5">5. <hi>Where the Senſe of the Old Metre varies from that of the New Tranſlation of the Bible, it is reduced to it, and frequently, in ſuch Caſes, the
+<pb facs="tcp:187768:4" rendition="simple:additions"/>
+                  <pb facs="tcp:187768:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:187768:5"/>Words of that Tranſlation, are admitted, if th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Metre will bear it.</hi>
+            </p>
+            <p n="6">6. <hi>In ſome</hi> Pſalms <hi>of ordinary uſe, there is a ſe<g ref="char:EOLhyphen"/>cond Metre added, by only adding a word, or two in a line.</hi>
+            </p>
+            <p n="7">7. <hi>And in ſome</hi> Pſalms, <hi>by that Addition, to the Old Metre of Eights and Sixes, the whole for va<g ref="char:EOLhyphen"/>rieties ſake is adapted to a new Tune.</hi>
+            </p>
+            <p n="8">8. <hi>There are very few</hi> Pſalms, <hi>(ſcarcely a thir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> part) which, for all theſe alterations, continue not as they were in the Old Metre; only ſome few Word changed; according to the firſt and ſecond Particular<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> before mentioned.</hi>
+            </p>
+            <p>
+               <hi>The Reaſons inducing the Author to this Adven<g ref="char:EOLhyphen"/>ture, and ſome farther Particulars relating to this Corrected Verſion, are not here added: though they are ready; becauſe that would have made the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of this Eſſay too large: and therefore <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he reſerv<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> them to accompany the entire Copy, if it be call<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="metrical_Psalter">
+            <pb n="1" facs="tcp:187768:5"/>
+            <head>THE Pſalms of <hi>David</hi> IN METRE.</head>
+            <div n="1" type="Psalm">
+               <head>
+                  <hi>Beatus vir.</hi> Pſalm i.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> THE Man is bleſt, by ill advice</l>
+                  <l>To walk, who doth forbear:</l>
+                  <l>Nor ſtands with Sinners in their way;</l>
+                  <l>Nor ſits in ſcorners chair.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> But on the Lord's moſt holy law</l>
+                  <l>Doth fix his chief delight:</l>
+                  <l>And it to ſtudy doth employ</l>
+                  <l>His thoughts both day and night.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> He ſhall be like the Tree, that grows</l>
+                  <l>to water-courſes near:</l>
+                  <l>Which brings forth pleaſant fruits, to fit</l>
+                  <l>the ſeaſons of the year:</l>
+                  <l>Whoſe Leaf, through drought, doth never fall;</l>
+                  <l>but flouriſh ſtill, and ſtand:</l>
+                  <l>Ev'n ſo ſhall all things proſper well,</l>
+                  <l>which this man takes in hand.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> But ſuch ſucceſs, ungodly men</l>
+                  <l>ſhall miſs in what they do:</l>
+                  <l>And prove like chaff, which from the earth</l>
+                  <l>winds ſcatter to and fro.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Vain, therefore, are their hopes, to ſtand</l>
+                  <l>before God's bar upright:</l>
+                  <pb n="2" facs="tcp:187768:6"/>
+                  <l>No ſinners there, among the juſt,</l>
+                  <l>ſhall dare appear in ſight.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> For God the righteous, in their way</l>
+                  <l>which now he owns, will crown:</l>
+                  <l>Whereas ungodly men in theirs,</l>
+                  <l>ſhall periſh with his frown.</l>
+               </lg>
+            </div>
+            <div n="1" type="Psalm">
+               <head>Pſal. i.</head>
+               <opener>The ſame, to another Tune.</opener>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> THE man is bleſt, who walketh not</l>
+                  <l>As thoſe adviſe, who wicked are;</l>
+                  <l>Nor in the way of ſinners ſtand:</l>
+                  <l>Nor ſets himſelf in ſcorners Chair:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> But on the Law of God the Lord,</l>
+                  <l>Doth fix his ſoul's entire delight:</l>
+                  <l>And it to ſtudy, doth employ</l>
+                  <l>His muſing thoughts, both day and night.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> He ſhall be like the tree, that grows</l>
+                  <l>To conſtant water-courſes near:</l>
+                  <l>Which duly brings forth pleaſant fruit,</l>
+                  <l>At proper ſeaſons of the year.</l>
+                  <l>Whoſe Leaf, through drought, doth never fall</l>
+                  <l>But freſh and green at all times ſtand;</l>
+                  <l>Ev'n ſo ſhall all things proſper well,</l>
+                  <l>Which ſuch a man doth take in hand.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> But like ſucceſs ungodly men</l>
+                  <l>Shall ne'er obtain in what they do:</l>
+                  <l>But rather prove like chaff; which, winds</l>
+                  <l>From th' earth do ſcatter to and fro.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Vain, therefore are their hopes, to ſtand</l>
+                  <l>Before God's judgment-ſeat upright:</l>
+                  <l>Nor ſhall the ſinners with the juſt,</l>
+                  <l>At his aſſize, appear in ſight.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> For God, the righteous, in their way,</l>
+                  <l>Which now he owneth, then will crown:</l>
+                  <pb n="3" facs="tcp:187768:6"/>
+                  <l>Whereas th'ungodly ſhall in theirs,</l>
+                  <l>For ever periſh with his frown.</l>
+               </lg>
+            </div>
+            <div n="2" type="Psalm">
+               <head>
+                  <hi>Quare fremuerunt.</hi> Pſalm ii.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> WHY did the <hi>Gentiles</hi> tumults raiſe?</l>
+                  <l>What rage did heat their brain?</l>
+                  <l>Why did the <hi>Jewiſh</hi> people ſpend</l>
+                  <l>their thoughts on things ſo vain?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> The Kings and Rulers of the earth</l>
+                  <l>conſpire with one intent,</l>
+                  <l>Againſt the Lord, and Chriſt his ſon,</l>
+                  <l>by Him from heaven ſent.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> "Let's break the ſlaviſh chains, (they ſay)</l>
+                  <l>"which they on us do lay:</l>
+                  <l>"And from us, all the cords, with which</l>
+                  <l>"they curb us, caſt away.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> But he that in the heavens dwells,</l>
+                  <l>their doings will deride:</l>
+                  <l>And make their feeble pride a ſcorn</l>
+                  <l>throughout his empire wide.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Then ſhall the Lord, provok'd to wrath,</l>
+                  <l>no longer ſilent ſtay:</l>
+                  <l>But ſhall in ſore diſpleaſure, thus,</l>
+                  <l>to vex the rebels, ſay;</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label>"In ſpite of all your plot, or act,</l>
+                  <l>"to croſs my fixed will;</l>
+                  <l>"Yet have I ſet my king upon</l>
+                  <l>"my <hi>Zion</hi>'s holy hill.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> I will declare the Lord's decree,</l>
+                     <l>from whence my reign takes date:</l>
+                     <l>Thou art (ſaid he to me) my ſon:</l>
+                     <l>this day I thee begat.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> "All people will I give to thee,</l>
+                     <l>mine heir, at thy requeſt:</l>
+                     <pb n="4" facs="tcp:187768:7"/>
+                     <l>"The utmoſt coaſts of all the earth</l>
+                     <l>"by thee ſhall be poſſeſt.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> "And, cruſh'd by thee, thy foes like dirt,</l>
+                     <l>"ſhall under foot be trod:</l>
+                     <l>"Diſſolv'd to duſt, like potters ſherds,</l>
+                     <l>"beneath thy iron rod.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> "Ye Kings, and Rulers, then, be wiſe,</l>
+                     <l>"and in your duty learn'd:</l>
+                     <l>"By whom all cauſes here are judg'd,</l>
+                     <l>"and right from wrong diſcern'd.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> "Take heed ye ſerve the Lord above,</l>
+                     <l>"poſſeſs'd with awful fear:</l>
+                     <l>And mix your joys with reverence, when</l>
+                     <l>"before him ye appear.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> "Unto his ſon your homage, with</l>
+                     <l>"all due devotion pay:</l>
+                     <l>"Leſt through his anger, juſtly ſtirr'd,</l>
+                     <l>"ye periſh from the way.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> "For if the ſmalleſt ſpark of wrath</l>
+                     <l>"once kindles in his breſt;</l>
+                     <l>"You ſoon will find, that only they</l>
+                     <l>"that truſt in him, are bleſt.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="3" type="Psalm">
+               <head>
+                  <hi>Domine, quid?</hi> Pſalm iii.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> O Lord, how are my foes increas'd,</l>
+                  <l>which vex, and grieve me ſore:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Againſt me, whilſt they riſe; and ſay,</l>
+                  <l>"God cannot him reſtore.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> But thou, O Lord, doſt ſhield me, when</l>
+                  <l>I greateſt dangers dread:</l>
+                  <l>My glory thou maintain'ſt, and do'ſt</l>
+                  <l>hold up my drooping head.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> With ſtrained voice, unto the Lord</l>
+                  <l>I did devoutly cry:</l>
+                  <pb n="5" facs="tcp:187768:7"/>
+                  <l>And he out of his holy hill,</l>
+                  <l>did hear me graciouſly.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> I laid me down, and quietly</l>
+                  <l>I ſlept; and roſe again:</l>
+                  <l>And found my ſelf in ſafety; for</l>
+                  <l>The Lord did me ſuſtain,</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Whence, though ten thouſand hem'd me in,</l>
+                  <l>I would not be afraid:</l>
+                  <l>No numbers ſhould my courage quell,</l>
+                  <l>whilſt God doth give me aid.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> Up, then, my God, and ſave me, when</l>
+                  <l>ſuch dangers me befal;</l>
+                  <l>Who when great foes againſt me gnaſht</l>
+                  <l>their teeth, didſt cruſh them all.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Salvation wholly doth belong</l>
+                  <l>unto the Lord above:</l>
+                  <l>From whom, his people ſtill partake</l>
+                  <l>the bleſt effects of love.</l>
+               </lg>
+            </div>
+            <div n="4" type="Psalm">
+               <head>
+                  <hi>Cum invocarem.</hi> Pſalm iv.</head>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> O God, that art my righteouſneſs,</l>
+                  <l>attend unto my cry:</l>
+                  <l>To whom, enlarg'd from great diſtreſs,</l>
+                  <l>I own my liberty.</l>
+                  <l>Like mercy then, again to me</l>
+                  <l>extend, in like diſtreſs:</l>
+                  <l>For I to thee, my proved friend,</l>
+                  <l>do humbly make addreſs.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> O ſons of men, how long will ye</l>
+                  <l>my glory thus deſpiſe?</l>
+                  <l>Why wander ye in vanity,</l>
+                  <l>and follow after lies?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> This know, that God, the godly man</l>
+                  <l>doth, as his treaſure chuſe:</l>
+                  <pb n="6" facs="tcp:187768:8"/>
+                  <l>Me, therefore, when on him I call,</l>
+                  <l>he never will refuſe.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Then ſtand in awe, and ſin no more:</l>
+                  <l>ſet ill deſigns apart;</l>
+                  <l>Whiles calmly on your couches laid,</l>
+                  <l>you commune with your heart.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Preſent to God the ſacrifice</l>
+                  <l>of righteouſneſs; and ſtay</l>
+                  <l>Your ſouls with faith on him, the rock,</l>
+                  <l>that never can decay.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> The greater ſort crave worldly goods,</l>
+                  <l>and riches have in chaſe:</l>
+                  <l>But ſhine upon us, Lord, do thou,</l>
+                  <l>with thine unclouded face.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> For thou, thereby, ſhalt make my heart</l>
+                  <l>more pleas'd by far, and glad;</l>
+                  <l>Than theirs, who of their corn and wine,</l>
+                  <l>the great'ſt increaſe have had.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Aſſur'd whereof, lie down will I,</l>
+                  <l>and take a quiet ſleep:</l>
+                  <l>Whiles thou, who never ſlumb'reſt, Lord,</l>
+                  <l>do'ſt me in ſafety keep.</l>
+               </lg>
+            </div>
+            <div n="5" type="Psalm">
+               <head>
+                  <hi>Verba mea auribus.</hi> Pſalm v.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> INcline thine ear unto my words;</l>
+                  <l>my meditation mind:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> And let my Pray'r, (my King, and God,)</l>
+                  <l>with thee acceptance find.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> As thou my voice ſhalt hear betimes,</l>
+                  <l>ſo humbly I expect</l>
+                  <l>Thy early help; whiles I to thee</l>
+                  <l>my early Pray'r direct.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> I fix on thee my waiting eyes,</l>
+                  <l>well knowing thou art one,</l>
+                  <pb n="7" facs="tcp:187768:8"/>
+                  <l>Not pleas'd at all with wickedneſs,</l>
+                  <l>and ill with thee dwells none.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> And in thy ſight, ungodly fools</l>
+                  <l>ſhall never ſtand, O Lord:</l>
+                  <l>All workers of iniquity</l>
+                  <l>who ever haſt abhorr'd.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Thou ſhalt to utter ruin bring</l>
+                  <l>all ſuch, as utter lies:</l>
+                  <l>The bloody and deceitful man,</l>
+                  <l>the ſoul of God defies.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> But I thy houſe will viſit, Lord,</l>
+                  <l>depending on thy grace:</l>
+                  <l>And reverendly worſhip thee,</l>
+                  <l>before thy holy place.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Lord, lead me in thy righteouſneſs;</l>
+                  <l>For watchful are my foes:</l>
+                  <l>And th' holy way I ought to keep</l>
+                  <l>do thou to me diſcloſe.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> For truth is far from what they ſay;</l>
+                  <l>their hearts foul vices ſtain:</l>
+                  <l>Their throat is like an open grave,</l>
+                  <l>howe'er with tongues they feign.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> Lord, turn their plots againſt themſelves,</l>
+                  <l>until deſtroy'd they be;</l>
+                  <l>And cruſht beneath their load of guilt,</l>
+                  <l>who rebels are to the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>11</label> But make all thoſe that truſt in thee</l>
+                  <l>to ſhout for joy always:</l>
+                  <l>Let all that love thy holy name,</l>
+                  <l>give thee, their ſhield, the praiſe.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>12</label> For thou, thy favour wilt encreaſe</l>
+                  <l>toward the righteous ſtill:</l>
+                  <l>And therewithal, as with a ſhield,</l>
+                  <l>defend him from all ill.</l>
+               </lg>
+            </div>
+            <div n="6" type="Psalm">
+               <pb n="8" facs="tcp:187768:9"/>
+               <head>
+                  <hi>Domine, nè in furore.</hi> Pſalm vi.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> O Lord, in wrath rebuke me not,</l>
+                  <l>when ſin it ſets on fire:</l>
+                  <l>Nor in thy fury chaſten me,</l>
+                  <l>I humbly thee deſire.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> For I am weak: O, therefore, Lord,</l>
+                  <l>in mercy me forbear;</l>
+                  <l>And heal me; for my very bones</l>
+                  <l>within me cruſhed are.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> My ſoul is troubled very ſore,</l>
+                  <l>and vexed veh'mently:</l>
+                  <l>But Lord, how long wilt thou delay</l>
+                  <l>to cure my malady?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> O turn thee to thy wonted grace;</l>
+                  <l>my down-caſt ſoul up take:</l>
+                  <l>And ſave me, not for my deſerts,</l>
+                  <l>but for thy mercies ſake.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> For none that lie among the dead,</l>
+                  <l>of thee remembrance have:</l>
+                  <l>And who ſhall give thee thanks, O God,</l>
+                  <l>within the ſilent grave?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> So grievous is my daily moan,</l>
+                  <l>as makes me wondrous faint:</l>
+                  <l>And all night long, my bed doth ſwim</l>
+                  <l>in tears without reſtraint.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> My ſight is dim, and waxes old,</l>
+                  <l>with anguiſh of my heart:</l>
+                  <l>Becauſe my deadly foes do ſtill</l>
+                  <l>new plots againſt me ſtart.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> But now, away from me, all ye</l>
+                  <l>that work iniquity:</l>
+                  <l>For now, the Lord hath heard the voice</l>
+                  <l>of my complaint and cry.</l>
+                  <pb n="9" facs="tcp:187768:9"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> He heard the earneſt pray'r, whereby</l>
+                  <l>I eas'd my troubl'd heart:</l>
+                  <l>And will me hear again, when <hi>I</hi>
+                  </l>
+                  <l>new griefs to him impart.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> My foes, which long have vexed me,</l>
+                  <l>put ſtill, O Lord, to ſhame:</l>
+                  <l>And make them, with defeatment vext,</l>
+                  <l>turn back the way they came.</l>
+               </lg>
+            </div>
+            <div n="6" type="Psalm">
+               <head>Pſalm vi.</head>
+               <opener>The ſame in another Metre.</opener>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> O Lord, in wrath rebuke me not,</l>
+                  <l>I proſtrate at thy feet, deſire:</l>
+                  <l>Nor in thy fury chaſten me,</l>
+                  <l>Which I by ſin have ſet on fire.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> My weakneſs pleads for pity, Lord:</l>
+                  <l>In tender mercy me forbear:</l>
+                  <l>And heal me; for my very bones</l>
+                  <l>Within me, ſorely vexed are.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> My ſoul is alſo troubled ſore,</l>
+                  <l>And vexed very grievouſly:</l>
+                  <l>But Lord, how long wilt thou delay,</l>
+                  <l>To cure my woeful malady?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Lord, turn thee to thy wonted grace,</l>
+                  <l>And my dejected ſoul up take:</l>
+                  <l>O ſave me, not for my deſerts;</l>
+                  <l>But for thy tender mercies ſake.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> For none that lie forlorn among</l>
+                  <l>The dead, of thee remembrance have:</l>
+                  <l>And who ſhall give thee thanks, within</l>
+                  <l>The lodgings of the ſilent grave?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> So grievous is my moan by day,</l>
+                  <l>That I therewith am wondrous faint:</l>
+                  <l>And all the night, I ſwim my bed</l>
+                  <l>In tears, which back my ſad complaint.</l>
+                  <pb n="10" facs="tcp:187768:10"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> My ſight is dim, and waxed old,</l>
+                  <l>Continual grief hath ſpent it ſo:</l>
+                  <l>Whiles they that are my deadly foes,</l>
+                  <l>Still plot, my life to overthrow.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> But now, away from me, all ye</l>
+                  <l>Vile workers of iniquity:</l>
+                  <l>Becauſe the Lord hath heard the voice</l>
+                  <l>Of my complaint, and bitter cry.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> He heard the earneſt pray'r, wherein</l>
+                  <l>I eas'd the troubles of my heart:</l>
+                  <l>And ſo will do again, when I</l>
+                  <l>My grieſs to him again impart.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> The foes, which long have vexed me,</l>
+                  <l>Confound, thou Lord, and put to ſhame:</l>
+                  <l>Till they, with ſore defeatment vext,</l>
+                  <l>Turn backward, faſter than they came.</l>
+               </lg>
+            </div>
+            <div n="7" type="Psalm">
+               <head>
+                  <hi>Domine, Deus mi.</hi> Pſalm vii.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> O Lord, my God, I caſt my ſelf</l>
+                  <l>with confidence on thee:</l>
+                  <l>From thoſe who cloſely me purſue,</l>
+                  <l>ſave, and deliver me.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Leſt, Lion-like, my mighty foe</l>
+                  <l>in pieces ſmall me rend:</l>
+                  <l>Whiles none appears to ſuccour me,</l>
+                  <l>that can my life defend.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> O Lord my God, if I have done</l>
+                  <l>the thing that is not right:</l>
+                  <l>Or, of the crime they charge on me,</l>
+                  <l>be guilty in thy ſight.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> If with my friend I brake the band</l>
+                  <l>of peace, by treachery:</l>
+                  <l>(Yea, rather, ſpar'd I his, that ſought</l>
+                  <l>my life injuriouſly;)</l>
+                  <pb n="11" facs="tcp:187768:10"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Then let the foe purſue my ſoul,</l>
+                  <l>and ſpill, with anger juſt,</l>
+                  <l>My life upon the earth; and lay</l>
+                  <l>mine honour in the duſt.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Ariſe O Lord, with juſter wrath,</l>
+                  <l>mine enemies to reſtrain:</l>
+                  <l>And judg me by thy righteous laws,</l>
+                  <l>who wrong from men ſuſtain.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> Great numbers, then, ſhall come to thee,</l>
+                  <l>and croud about thy throne:</l>
+                  <l>Aſcend it, Lord, and for their ſakes,</l>
+                  <l>thence make thy Juſtice known.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> And ſince thou art of all men Judg;</l>
+                  <l>pronounce concerning me,</l>
+                  <l>According to my righteouſneſs,</l>
+                  <l>and mine integrity.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> Lord, ceaſe the rage of wicked men;</l>
+                     <l>the juſt ſupport, and guide:</l>
+                     <l>For by the righteous God, the hearts</l>
+                     <l>and reins of men are try'd.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> I own my help to come of God,</l>
+                     <l>who ever taketh part</l>
+                     <l>With all ſuch, to preſerve them ſafe,</l>
+                     <l>as upright are in heart.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> The juſt man, and the wicked both,</l>
+                     <l>the righteous Judg doth try:</l>
+                     <l>But ev'ry day, his wrath againſt</l>
+                     <l>the wicked, boyleth high.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> If warned, he will not repent,</l>
+                     <l>God whets his ſword to ſmite:</l>
+                     <l>And bends his bow, the obſtinate</l>
+                     <l>and hard'ned heart to hit.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> For execution he prepares</l>
+                     <l>his arrows, ſharp, and keen;</l>
+                     <pb n="12" facs="tcp:187768:11"/>
+                     <l>To pierce them through, that perſecute</l>
+                     <l>his Jewels, holy men.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>14</label> My foe with plots doth travel, in</l>
+                     <l>his wicked head forecaſt:</l>
+                     <l>But of the miſchief there conceiv'd,</l>
+                     <l>lo, nothing comes at laſt.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>15</label> He dig'd a ditch, and delv'd it deep,</l>
+                     <l>in hope to hurt his Brother:</l>
+                     <l>But fell himſelf, into the pit,</l>
+                     <l>prepared for another.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>16</label> Thus wrong recoiling, hurts the man,</l>
+                     <l>From whom it did proceed:</l>
+                     <l>And all the miſchief he contriv'd,</l>
+                     <l>ſhall cruſh its plotters head.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>17</label> I therefore will give thanks to God,</l>
+                     <l>that judgeth righteouſly:</l>
+                     <l>And with my Song extol the name</l>
+                     <l>of him that is moſt high.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="8" type="Psalm">
+               <head>
+                  <hi>Domine Deus noſter.</hi> Pſal. viii.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> O Lord, our Lord, how excellent</l>
+                  <l>thy Name is ev'ry where!</l>
+                  <l>For thou thy glorious Throne haſt ſet</l>
+                  <l>above the heavens clear.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Ev'n by the mouths of ſucking babes,</l>
+                  <l>thou ſhalt confound thy foes:</l>
+                  <l>For thou thy mighty power, in</l>
+                  <l>their weakneſs can'ſt diſcloſe.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> When I behold the heavens, fram'd</l>
+                  <l>By thine almighty hand;</l>
+                  <l>And view the moon, and all the ſtars,</l>
+                  <l>in order as they ſtand:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Lord, think I, what is man, of him</l>
+                  <l>that thou doſt take ſuch care?</l>
+                  <pb n="13" facs="tcp:187768:11"/>
+                  <l>Or what his iſſue, that to them</l>
+                  <l>ſo kind thy viſits are?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> For thou haſt made him little leſs</l>
+                  <l>then angels in degree:</l>
+                  <l>With glory great, and dignity</l>
+                  <l>his head is crown'd by thee.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Thou haſt prefer'd him to be Lord</l>
+                  <l>of all thy works of wonder:</l>
+                  <l>And at his feet laid all below,</l>
+                  <l>that he ſhould keep them under.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> Tame flocks, and herds, and beaſts that in</l>
+                  <l>wild deſarts live by prey:</l>
+                  <l>With fowls of th' air, and fiſh, that make</l>
+                  <l>in pathleſs ſeas their way.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> O Lord, our Lord, how excellent</l>
+                  <l>thy works are ev'ry where?</l>
+                  <l>Moſt glorious in them doth thy name</l>
+                  <l>through all the earth appear.</l>
+               </lg>
+            </div>
+            <div n="8" type="Psalm">
+               <head>Pſalm viii.</head>
+               <opener>The ſame in a different Metre.</opener>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> O Lord, our Lord, how excellent</l>
+                  <l>Thy name on earth is ev'ry where</l>
+                  <l>Yea, thou haſt ſet thy glorious throne</l>
+                  <l>Far higher than the heavens clear.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Ev'n by the mouths of ſucking babes</l>
+                  <l>Thou canſt, and wilt confound thy foes:</l>
+                  <l>Who wonted art thy mighty ſtrength</l>
+                  <l>In feebleſt creatures to diſcloſe.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> When I behold the heavens, which</l>
+                  <l>Are fram'd by thy almighty hand;</l>
+                  <l>And view the moon, and all the ſtars,</l>
+                  <l>Where they by thee diſpoſed, ſtand.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Lord, think I, what is man, of him</l>
+                  <l>That thou doſt take ſuch tender care?</l>
+                  <pb n="14" facs="tcp:187768:12"/>
+                  <l>Or, what's his iſſue, that to them</l>
+                  <l>So very kind thy Viſits are?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> For thou haſt made him little leſs</l>
+                  <l>Then heav'nly angels in degree:</l>
+                  <l>And on his head, a glorious crown</l>
+                  <l>Beſtowed is, O Lord, by thee.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Thou haſt prefer'd him to be Lord</l>
+                  <l>On earth, of all thy works of wonder:</l>
+                  <l>And at his feet laid all things there,</l>
+                  <l>With ample pow'r to keep them under.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> Tame flocks, and herds, and beaſts, which i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Wild deſarts live by daily prey:</l>
+                  <l>With fowls of th' air, and fiſh, which make</l>
+                  <l>themſelves in pathleſs ſeas a way.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> O Lord, our Lord, how excellent</l>
+                  <l>Thy works proclaim thee ev'ry where!</l>
+                  <l>Through all the earth, they make thy name</l>
+                  <l>Moſt glorious, like thy ſelf, appear.</l>
+               </lg>
+            </div>
+            <div n="9" type="Psalm">
+               <head>
+                  <hi>Confitebor tibi Domine.</hi> Pſal. ix.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> WIth heart entire, and mouth, O Lord</l>
+                  <l>I will proclaim thy praiſe:</l>
+                  <l>And publiſh all thy wondrous works,</l>
+                  <l>thy glorious fame to raiſe.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> I will exceedingly rejovce</l>
+                  <l>in thee, O God moſt high:</l>
+                  <l>And tune my voice, thy name to praiſe,</l>
+                  <l>in cheerful melody.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Becauſe my foes are driven back,</l>
+                  <l>and put to ſhameful flight:</l>
+                  <l>They fell down flat, and were deſtroy'd,</l>
+                  <l>before thy preſence bright.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> My right maintained was by thee,</l>
+                  <l>by whom my cauſe was try'd:</l>
+                  <pb n="15" facs="tcp:187768:12"/>
+                  <l>Who juſtly from thy royal throne,</l>
+                  <l>gav'ſt ſentence on my ſide.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Thou didſt rebuke the Heathens ſo,</l>
+                  <l>the wicked ſo confound;</l>
+                  <l>That where they liv'd, their memory</l>
+                  <l>for ever ſhall be drown'd.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Proud foe, that haſt with quick diſpatch</l>
+                  <l>ſo many towns deſtroy'd:</l>
+                  <l>And haſt their names with them defac'd;</l>
+                  <l>yet be not overjoy'd:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> But know, when thou haſt done thy worſt,</l>
+                  <l>the Lord will ever reign:</l>
+                  <l>And from his royal judgment-ſeat,</l>
+                  <l>the righteous cauſe maintain.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> With juſtice he will judg the world,</l>
+                  <l>which tyrants ſway with might:</l>
+                  <l>And with impartial equity,</l>
+                  <l>give all therein their right.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> Protector of the poor he is,</l>
+                  <l>when wrongfully oppreſt:</l>
+                  <l>And will to them a refuge be,</l>
+                  <l>when e'r they are diſtreſt.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> Whence, all that know thy name, on thee,</l>
+                  <l>ſhall boldly, Lord, rely:</l>
+                  <l>For thou forſakeſt none, that ſeek</l>
+                  <l>thee in ſincerity.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> Sing praiſing ſongs unto the Lord,</l>
+                     <l>that dwells on <hi>Zion</hi> hill:</l>
+                     <l>And publiſhing his glorious deeds,</l>
+                     <l>the ears of all men fill.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> When e'r he makes a ſearch for blood</l>
+                     <l>of men unjuſtly ſlain;</l>
+                     <pb n="16" facs="tcp:187768:13"/>
+                     <l>The murd'rers guilt, and ſuff'rers cries,</l>
+                     <l>in mind he will retain.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> In mercy, Lord, the troubles mind</l>
+                     <l>which I from foes ſuſtain:</l>
+                     <l>(For from the gates of death haſt thou</l>
+                     <l>oft rais'd me up again:)</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>14</label> In <hi>Zion</hi> that I may ſet forth</l>
+                     <l>Thy praiſe, with thankful voice:</l>
+                     <l>And that in thy ſalvation, Lord,</l>
+                     <l>my ſoul may ſtill rejoyce.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>15</label> The heathens are ſunk down into</l>
+                     <l>the pit, themſelves prepar'd:</l>
+                     <l>And in the net they ſet for me,</l>
+                     <l>Their own feet faſt are ſnar'd.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>16</label> The judgments which he executes,</l>
+                     <l>make God, their Author, known:</l>
+                     <l>When, tangled in the ſnare he laid,</l>
+                     <l>the wicked is o'rthrown.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>17</label> The wicked ſhall, by God condemn'd,</l>
+                     <l>be turned into hell:</l>
+                     <l>That doleful place, where ev'ry one</l>
+                     <l>that God forgets, ſhall dwell.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>18</label> For ſurely, God will not forget</l>
+                     <l>the poor, when they complain:</l>
+                     <l>Nor ſhall the needy always look</l>
+                     <l>for help of him, in vain.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>19</label> O Lord, ariſe, leſt men prevail,</l>
+                     <l>by means of worldly might:</l>
+                     <l>And let thy heath'niſh foes receive</l>
+                     <l>their judgment in thy ſight.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>20</label> Lord, ſhoot thy terrour, fear, and dread,</l>
+                     <l>into their hearts; and then</l>
+                     <l>They will themſelves miſtaken own,</l>
+                     <l>who went for more than men.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="10" type="Psalm">
+               <pb n="17" facs="tcp:187768:13"/>
+               <head>
+                  <hi>Ut quid, Domine?</hi> Pſal. x.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>WHat is the cauſe, why thou, O Lord,</l>
+                  <l>Stand'ſt now ſo far from thine?</l>
+                  <l>Not ſuff'ring, in our troubles great,</l>
+                  <l>thy face on us to ſhine?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Proud perſecutors hunt the poor,</l>
+                  <l>ev'n as themſelves deſire:</l>
+                  <l>Lord, take them in the plots, which they</l>
+                  <l>to execute, conſpire.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> For in his projects wiſht ſucceſs</l>
+                  <l>the wicked takes delight:</l>
+                  <l>And doth oppreſſing worldlings bleſs</l>
+                  <l>whom God doth loath, and ſlight.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Religion he diſowns, and looks.</l>
+                  <l>with ſcornful eyes thereon;</l>
+                  <l>Nor ever thinks of pow'r divine;</l>
+                  <l>yea, rather thinks there's none.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> His ways ſtill grievous are; nor do</l>
+                  <l>thy judgments him affect,</l>
+                  <l>They're much too high; and on his foes</l>
+                  <l>with ſcorn he doth reflect.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> "Tuſh (ſays he in his heart,) I dread</l>
+                  <l>"no threaten'd future change:</l>
+                  <l>"That ſuch ſhould e'er befal me, ſeems</l>
+                  <l>"to me abſurdly ſtrange.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> His mouth is full of curſings; meant</l>
+                  <l>to hide deceit and guile:</l>
+                  <l>His imprecating tongue conceals</l>
+                  <l>deſigns moſt baſe, and vile.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> He lurking, lies in coverts cloſe,</l>
+                  <l>to ſlay the innocent:</l>
+                  <l>Againſt the poor, that paſſeth by,</l>
+                  <l>his wrathful eyes are bent.</l>
+                  <pb n="18" facs="tcp:187768:14"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> There, ſlily lays he wait, as doth</l>
+                  <l>the lion in his den;</l>
+                  <l>From whence in his deceitful net,</l>
+                  <l>he ſeiſeth ſimple men.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> With treach'rous craft and ſubtilty,</l>
+                  <l>he croucheth by the way:</l>
+                  <l>Till poor men, overmatch'd by ſtrength,</l>
+                  <l>become his eaſie prey.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART.</hi> II.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> "Truth, God forgetful is (ſaith he)</l>
+                     <l>"I therefore may be bold:</l>
+                     <l>"His countenance is turn'd aſide;</l>
+                     <l>"he doth it not behold.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> Ariſe, O Lord, our God; on whom</l>
+                     <l>the poor man's hope doth reſt:</l>
+                     <l>And lift thy hand, to ſhew thou mind'ſt</l>
+                     <l>men wrongfully oppreſt.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> Why ſhould the wicked, God contemn?</l>
+                     <l>Lord, doſt thou not abhor it?</l>
+                     <l>Whiles, acting at this rate, they ſay</l>
+                     <l>"in heart, thou car'ſt not for it:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>14</label> But thou, that ſeeſt their doings, wilt</l>
+                     <l>all ſpiteful wrongs requite:</l>
+                     <l>For friendleſs men, and orphans, do</l>
+                     <l>themſelves to thee commit.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>15</label> Of wicked and malicious men,</l>
+                     <l>break thou the arm therefore:</l>
+                     <l>Search out, and puniſh all their crimes,</l>
+                     <l>until thou find no more.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>16</label> The Lord ſhall reign for evermore,</l>
+                     <l>upon his glorious throne!</l>
+                     <l>Expelling from his choſen land,</l>
+                     <l>the heathens every one.</l>
+                     <pb n="19" facs="tcp:187768:14"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>17</label> Thou knoweſt, Lord, the ſad complaints,</l>
+                     <l>the poor to thee prefer:</l>
+                     <l>Whoſe hearts thou wilt prepare to pray,</l>
+                     <l>and cauſe thine ear to hear.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>18</label> To judge th' oppreſſed fatherleſs,</l>
+                     <l>and help them to their right:</l>
+                     <l>That they no more be trampled on,</l>
+                     <l>by men of worldly might.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="11" type="Psalm">
+               <head>
+                  <hi>In Domino confido.</hi> Pſalm xi.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> IN God the Lord I truſt: how then</l>
+                  <l>ſay ye unto my ſoul,</l>
+                  <l>"Fly hence for ſhelter to your hill,</l>
+                  <l>"ſwift as the winged foul:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> "For lo, the wicked bend their bow,</l>
+                  <l>"and arm it with a dart;</l>
+                  <l>"To ſhoot in ſecret at the man,</l>
+                  <l>"that upright is in heart.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> "Since then, all other hopes to ſcape,</l>
+                  <l>"are thus reduc'd to nought:</l>
+                  <l>"By what, but ſlight alone, ſecure,</l>
+                  <l>"can righteous men be thought?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> But God that in his temple is</l>
+                  <l>below, and hath on high</l>
+                  <l>Above the heav'ns, his glorious ſeat</l>
+                  <l>of royal majeſty;</l>
+                  <l>From thence, to mark what's done on earth,</l>
+                  <l>doth ſtill apply his mind:</l>
+                  <l>And ſearcheth out with watchful eye,</l>
+                  <l>the manners of mankind:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> And with a friendly count'nance, thence</l>
+                  <l>the tried juſt man views:</l>
+                  <l>But from his ſoul the wicked hates,</l>
+                  <l>who violence doth uſe:</l>
+                  <pb n="20" facs="tcp:187768:15"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> And will on ſuch men caſt down ſnares,</l>
+                  <l>as thick as driven rain;</l>
+                  <l>Fire, brimſtone, and an horrid ſtorm;</l>
+                  <l>all mixt, to give them pain.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> And learn men, that the righteous God</l>
+                  <l>doth righteouſneſs embrace:</l>
+                  <l>And ſurely will to upright men</l>
+                  <l>unveil his pleaſed face.</l>
+               </lg>
+            </div>
+            <div n="12" type="Psalm">
+               <head>
+                  <hi>Salvum me fac.</hi> Pſalm xii.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> HElp, Lord; for good and godly men</l>
+                  <l>grow thinner ev'ry day:</l>
+                  <l>And ſuch as faithful are, do ſtill</l>
+                  <l>in numbers much decay.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> When neighbour doth with neighbour talk,</l>
+                  <l>their words no weight do bear:</l>
+                  <l>With flatt'ring tongues, and double hearts,</l>
+                  <l>each other they enſnare.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> But when falſe tongues thro' flatt'ring lips,</l>
+                  <l>(to bring deſigns about)</l>
+                  <l>Take pride to cheat with pleaſing words,</l>
+                  <l>the Lord will root them out.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Becauſe they ſay, "We will prevail;</l>
+                  <l>"our tongues ſhall us extol:</l>
+                  <l>"Our own they are, to ſerve our ends;</l>
+                  <l>"what, Lord, ſhall us control?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> But for the great complaint, and cry,</l>
+                  <l>of poor men ſore oppreſt,</l>
+                  <l>"Now, ſaith the Lord, will I ariſe,</l>
+                  <l>"and them reſtore to reſt.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> God's word is like to ſilver pure,</l>
+                  <l>within the furnace try'd:</l>
+                  <l>Which hath no leſs than ſeven times</l>
+                  <l>in fire been purify'd.</l>
+               </lg>
+            </div>
+            <div n="13" type="Psalm">
+               <pb n="21" facs="tcp:187768:15"/>
+               <head>Pſalm xiii.</head>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> 'Tis paſt all doubt, that thou, O Lord,</l>
+                  <l>wilt keep thy promiſe then:</l>
+                  <l>And ſave the righteous evermore,</l>
+                  <l>from ſuch perfidious men:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Of whom this wicked world is full;</l>
+                  <l>where vice is uncontroll'd:</l>
+                  <l>Whiles thoſe that vileſt are therein</l>
+                  <l>moſt highly are extoll'd.</l>
+               </lg>
+            </div>
+            <div n="13" type="Psalm">
+               <head>
+                  <hi>Uſque quo Domine.</hi> Pſalm xiii.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> HOW long wilt thou forget me, Lord,</l>
+                  <l>whiles I thy grace implore!</l>
+                  <l>How long is't, 'ere thy face on me</l>
+                  <l>will ſhine, as heretofore?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> How long, with careful thoughts ſhall I</l>
+                  <l>in mind tormented be?</l>
+                  <l>How long ſhall my prevailing foe</l>
+                  <l>thus triumph over me?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Behold me now, my Lord, and God,</l>
+                  <l>and heed my juſt requeſt:</l>
+                  <l>Mine eyes enlighten, leſt I ſleep,</l>
+                  <l>like one by death poſſeſt.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Leſt my ſucceſsful enemy ſay,</l>
+                  <l>"behold, I ſtill prevail:</l>
+                  <l>And thoſe that hate, and vex my ſoul,</l>
+                  <l>rejoice, to ſee me quail.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> But from thy goodneſs often try'd,</l>
+                  <l>my hope ſhall never ſtart:</l>
+                  <l>And in thy ſaving help obtain'd,</l>
+                  <l>right glad ſhall be my heart.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Then cheerful ſongs, unto the Lord</l>
+                  <l>I gratefully will ſing:</l>
+                  <l>Becauſe his bounty hath from me</l>
+                  <l>withheld no needful thing.</l>
+               </lg>
+            </div>
+            <div n="14" type="Psalm">
+               <pb n="22" facs="tcp:187768:16"/>
+               <head>
+                  <hi>Dixit inſipiens.</hi> Pſalm xiv.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> THat fools deny a God; is by</l>
+                  <l>their actions underſtood:</l>
+                  <l>For lives corrupt, and vile, they lead;</l>
+                  <l>and none doth any good.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> The Lord beheld from heav'n above,</l>
+                  <l>degenerate mankind:</l>
+                  <l>And ſaw not one of them, that ſought</l>
+                  <l>in earneſt, God to find.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> What filthy ways they took, the ſtench</l>
+                  <l>of loathſome crimes made known:</l>
+                  <l>None; no, not one there was, by whom</l>
+                  <l>the leaſt good deed was done.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> "Can men of reaſon thus, (ſaid he)</l>
+                  <l>"in judgment be miſ-led,</l>
+                  <l>"To ſlight God's worſhip; and to eat</l>
+                  <l>"my people up, like bread.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Thus dar'd they heav'n; where ſuddenly</l>
+                  <l>great fear did them befal:</l>
+                  <l>For ſoon they found, that with the juſt</l>
+                  <l>God dwells, to help them all.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> This think on, ye, whoſe ſcoffs have put</l>
+                  <l>the pious poor to ſhame:</l>
+                  <l>Who wiſely choſe to fly to God,</l>
+                  <l>and call upon his name.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> But when, O when, will God the word,</l>
+                  <l>on which we truſt, fulfil:</l>
+                  <l>And ſafety ſend to <hi>Iſrael</hi>
+                  </l>
+                  <l>from <hi>Zion</hi>'s holy Hill?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Which, when it comes to reſcue us,</l>
+                  <l>oppreſt with bondage ſad;</l>
+                  <l>All ſons of <hi>Jacob</hi> ſhall rejoice,</l>
+                  <l>and <hi>Iſrael</hi> be glad.</l>
+               </lg>
+            </div>
+            <div n="15" type="Psalm">
+               <pb n="23" facs="tcp:187768:16"/>
+               <head>
+                  <hi>Domine, quis?</hi> Pſalm xv.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> WIthin thy Tabernacle, Lord,</l>
+                  <l>Who ſhall inhabit ſtill?</l>
+                  <l>Or whom wilt thou receive, to dwell</l>
+                  <l>upon thy holy hill?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> The man whoſe life is uncorrupt;</l>
+                  <l>whoſe works are juſt, and ſtreight:</l>
+                  <l>Who ſpeaketh truth, and in his heart</l>
+                  <l>doth harbour no deceit:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Wrongs no man; nor by ſland'rous Tongue</l>
+                  <l>blaſts any perſons name:</l>
+                  <l>Nor willingly falſe tales receives,</l>
+                  <l>which may impair his fame:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Who vile, and vicious livers, doth</l>
+                  <l>as ſuch deſerve, contemn:</l>
+                  <l>But where he ſees men fearing God,</l>
+                  <l>He greatly honours them.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> His oath, and all his Promiſes,</l>
+                  <l>who keepeth faithfully;</l>
+                  <l>Although his bargain ſuch do prove,</l>
+                  <l>that loſe he muſt thereby.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> That ſhuns oppreſſing uſury</l>
+                  <l>to take for money lent:</l>
+                  <l>Who never will for bribes be bought,</l>
+                  <l>to wrong the innocent.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> The man that by theſe meaſures lives;</l>
+                  <l>(with God's dear favour bleſt):</l>
+                  <l>From fear of evil, ſafe, on him,</l>
+                  <l>may now, and ever, reſt.</l>
+               </lg>
+            </div>
+            <div n="15" type="Psalm">
+               <head>Pſalm xv.</head>
+               <opener>To another Tune.</opener>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> WIthin thy Tabernacle, who</l>
+                  <l>Shall ſojourn, Lord, with thy good will?</l>
+                  <l>Or, whom wilt thou admit, to fix</l>
+                  <l>His dwelling on thy holy hill?</l>
+                  <pb n="24" facs="tcp:187768:17"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Ev'n him, whoſe life is uncorrupt;</l>
+                  <l>Whoſe works are ſtrictly juſt, and ſtreight</l>
+                  <l>Who ſpeaketh truth: and in his heart</l>
+                  <l>Doth harbour no conceal'd deceit.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Wrongs no man: nor by ſland'rous tongue</l>
+                  <l>Doth injure any perſon's name;</l>
+                  <l>Nor willingly falſe tales receives,</l>
+                  <l>Which wrongfully impair his fame:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Who vile, and vicious perſons doth</l>
+                  <l>As juſtly they deſerve, contemn:</l>
+                  <l>But, where he ſees men fearing God;</l>
+                  <l>Though mean, he greatly honours them.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> His oath, and all his promiſes,</l>
+                  <l>Who keeps with all men faithfully;</l>
+                  <l>Although he find his bargain ſuch,</l>
+                  <l>That he is like to loſe thereby:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Who ſhuns exacting uſury,</l>
+                  <l>Where money ſhould be freely lent:</l>
+                  <l>Who never will with bribes be bought,</l>
+                  <l>To wrong a perſon innocent.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> The man that by theſe meaſures lives,</l>
+                  <l>(With God's peculiar favour bleſt,)</l>
+                  <l>From fear of threaten'd dangers, may,</l>
+                  <l>Upon him now, and ever reſt.</l>
+               </lg>
+            </div>
+            <div n="16" type="Psalm">
+               <head>
+                  <hi>Exaudi Domine.</hi> Pſalm xvi.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> LOrd, keep me; for I truſt in thee.</l>
+                  <l>Soul, thou to God haſt ſaid,</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> "Thou, Lord, art mine; my all is thine,</l>
+                  <l>"By vow to thee conveigh'd.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label>"3 Which, ſince thou need'ſt it not, I'll pay</l>
+                  <l>"thy Saints that here do dwell;</l>
+                  <l>"Whom I entirely love, becauſe</l>
+                  <l>"in vertue they excell.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label>"4 And wiſh all woes on them may fall,</l>
+                  <l>"that Idol-gods adore,</l>
+                  <pb n="25" facs="tcp:187768:17"/>
+                  <l>"Whoſe bloody off'rings I diſclaim,</l>
+                  <l>"And do their names abhor.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> The Lord alone the portion is</l>
+                  <l>of my inheritance:</l>
+                  <l>Thou fill'ſt my cup, and what thou giv'ſt,</l>
+                  <l>preſerv'ſt from all miſchance.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> The place, wherein my lot is fall'n,</l>
+                  <l>in beauty doth excell:</l>
+                  <l>And th' heritage thereby aſſign'd</l>
+                  <l>to me, doth pleaſe me well;</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> I bleſs the Lord, whoſe counſel made</l>
+                  <l>me underſtand aright:</l>
+                  <l>By means whereof, my ſecret thoughts</l>
+                  <l>do teach me ev'ry night.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> I God have ſet before me ſtill;</l>
+                  <l>and truſt him with my all:</l>
+                  <l>For whiles he ſtands at my right hand,</l>
+                  <l>no ill can me befall.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> A thought, which fills my heart, and tongue</l>
+                  <l>with gladneſs while I live:</l>
+                  <l>And will unto my dying fleſh,</l>
+                  <l>an hopeful proſpect give.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> For ſurely, my departed ſoul,</l>
+                  <l>in hell thou wilt not leave:</l>
+                  <l>Nor quit the body of thy Saint,</l>
+                  <l>corruption to perceive:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>11</label> But lead them both thou wilt to life;</l>
+                  <l>where boundleſs joys before</l>
+                  <l>Thy preſence dwell; and pleaſures at</l>
+                  <l>thy right hand evermore.</l>
+               </lg>
+            </div>
+            <div n="17" type="Psalm">
+               <head>
+                  <hi>Exaudi Domine.</hi> Pſal. xvii.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> O Lord, give ear, when juſtly I</l>
+                  <l>in ſtraits to thee complain:</l>
+                  <l>And hear the pray'r which comes to thee,</l>
+                  <l>from lips that do not fain.</l>
+                  <pb n="26" facs="tcp:187768:18"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> And let the judgment of my cauſe</l>
+                  <l>proceed from none, but thee:</l>
+                  <l>Wherein, as by impartial view,</l>
+                  <l>thou find'ſt it, ſentence me.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Oft thou my heart haſt ſearch'd by night,</l>
+                  <l>yet there no ill didſt find:</l>
+                  <l>And I reſolve, my tongue ſhall ne'r</l>
+                  <l>miſrepreſent my mind.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> From all the works likewiſe of men</l>
+                  <l>that are preverſly ill:</l>
+                  <l>And out of their deſtructive paths,</l>
+                  <l>thy word hath kept me ſtill.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> And ſtill do thou my goings in</l>
+                  <l>thy holy paths preſerve:</l>
+                  <l>That from the track I ought to keep,</l>
+                  <l>my footſteps never ſwerve.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> I oft have call'd on thee, in hope</l>
+                  <l>thou would'ſt me hear, and aid:</l>
+                  <l>Blaſt not that hope: but bend thine ear</l>
+                  <l>to what my lips have ſaid.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> O thou, whoſe right hand from their foes</l>
+                  <l>ſaves all that truſt in thee;</l>
+                  <l>That hand in kindneſs now extend;</l>
+                  <l>And wonders do for me.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> And keep me, Lord, as men do keep</l>
+                  <l>the apple of their eye:</l>
+                  <l>That under covert of thy wings,</l>
+                  <l>in ſafety I may lie.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> From wicked mens aſſaults me ſave,</l>
+                     <l>who daily we annoy:</l>
+                     <l>And from my foes ſurrounding me,</l>
+                     <l>who would my life deſtroy:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> Who wallow in their worldly wealth,</l>
+                     <l>as beaſts are wont, when fat:</l>
+                     <pb n="27" facs="tcp:187768:18"/>
+                     <l>And uſe their mouths, with daring pride,</l>
+                     <l>to ſpeak, they care not what.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> To hunt us to deſtruction, they</l>
+                     <l>our paths have compaſt round:</l>
+                     <l>And fixt, to ſpy our footſteps there,</l>
+                     <l>their eyes upon the ground.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> They act the lion, when his prey</l>
+                     <l>he eagerly doth chaſe:</l>
+                     <l>And ſometimes lurk, as doth his whelp,</l>
+                     <l>in ſome concealed place.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> Ariſe, in haſte, prevent my foe,</l>
+                     <l>and caſt him down, O Lord:</l>
+                     <l>And ſave me from the wicked, whom</l>
+                     <l>thou uſeſt as thy ſword:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>14</label> From men by th' hand of whom (provok'd)</l>
+                     <l>thou good men put'ſt to grief:</l>
+                     <l>From worldly men, whoſe portion is</l>
+                     <l>confined to this life.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>15</label> Whoſe bellies from thy ſtores thou fill'ſt,</l>
+                     <l>according to their mind:</l>
+                     <l>Nor want they heirs, t' inherit what</l>
+                     <l>their fathers leave behind.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>15</label> But with a conſcience clear, behold</l>
+                     <l>thy count'nance here, I will:</l>
+                     <l>And ſhall, when wak'd from death, of thy</l>
+                     <l>full viſion take my fill.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="18" type="Psalm">
+               <head>
+                  <hi>Diligam te, Domine.</hi> Pſal. xviii.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> O Lord, my ſtrength, I ſtill am bound</l>
+                  <l>to love thee heartily:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Who art my rock, and fortreſs ſtrong,</l>
+                  <l>in my neceſſity.</l>
+                  <l>My God, my Fort, in which I hope</l>
+                  <l>ſecure defence to have:</l>
+                  <l>My ſhield, my tower built on high;</l>
+                  <l>the Horn that doth me ſave.</l>
+                  <pb n="28" facs="tcp:187768:19"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> When on the Lord I call, and give</l>
+                  <l>to him deſerved praiſe:</l>
+                  <l>I ſhall be ſafe from all the force,</l>
+                  <l>mine enemies can raiſe.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> The pangs of death did compaſs me;</l>
+                  <l>and great my dangers were:</l>
+                  <l>Whiles wicked men, like ſwelling waves,</l>
+                  <l>did put me ſtill in fear.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> The ſtrong, and twiſted cords of hell,</l>
+                  <l>were round about me ſet:</l>
+                  <l>And me, at unawares, to catch,</l>
+                  <l>was ſpred a deadly net:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> When thus beſet with pain, and grief,</l>
+                  <l>I pray'd to God for grace.</l>
+                  <l>My cry before him came; which he</l>
+                  <l>heard from his holy place.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> His wrath with power armed, then,</l>
+                  <l>did make the earth to quake:</l>
+                  <l>Yea, at their deep foundations, forc'd</l>
+                  <l>the mighty hills to ſhake.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Forth from his noſtrils went a ſmoke,</l>
+                  <l>and from his mouth a flame;</l>
+                  <l>So fiercely hot, that all it toucht,</l>
+                  <l>as burning coals became.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> When God deſcended from above,</l>
+                     <l>he bow'd the heavens high:</l>
+                     <l>And underneath his feet, o'rſpred</l>
+                     <l>with darkneſs was the sky.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> His ſteed, a glorious <hi>Cherub</hi> was,</l>
+                     <l>whereon he rode in haſte:</l>
+                     <l>And ſwift, as mounted on the wings</l>
+                     <l>of all the winds, he paſt.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> With darkneſs compaſs'd, he in it,</l>
+                     <l>did his pavillion place:</l>
+                     <pb n="29" facs="tcp:187768:19"/>
+                     <l>With waters black, in ſtormy clouds</l>
+                     <l>environed he was.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> But ſoon the brightneſs of his face</l>
+                     <l>did make the clouds retire:</l>
+                     <l>Which breaking, hail-ſtones thence were ſhot,</l>
+                     <l>and glowing coals of fire.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> From heaven, in the frightful voice</l>
+                     <l>of thunder, th' Higheſt ſpake:</l>
+                     <l>And hail-ſtones from the ſhatter'd cloud</l>
+                     <l>with fire-coals mixed, brake.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>14</label> Theſe fiery darts, and thunder-bolts,</l>
+                     <l>his foes diſcomfited:</l>
+                     <l>His light'nings made them fly apace;</l>
+                     <l>and ſhew'd, which way they fled.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>15</label> Thy noſtrils breath, Lord, chas'd the flouds,</l>
+                     <l>that ſeen their boſoms were:</l>
+                     <l>Yea, th' earths foundations bare were laid,</l>
+                     <l>at thy rebuke ſevere.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>16</label> Thus from above, the Lord ſent down</l>
+                     <l>to fetch me from below:</l>
+                     <l>And reſcue me, whom waters great</l>
+                     <l>were ready t' overflow.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>17</label> He ſav'd me from my foes, leſt I</l>
+                     <l>into their hands ſhould fall:</l>
+                     <l>Ev'n mighty foes, by much too ſtrong</l>
+                     <l>for me to deal withall.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>18</label> They ſet upon me unawares</l>
+                     <l>half-dead, before, with grief:</l>
+                     <l>But ſeaſonably, then the Lord</l>
+                     <l>Appear'd for my relief.</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <head>
+                     <hi>PART</hi> iii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>19</label> From caves, and deſarts, where I hid</l>
+                     <l>my ſelf, did God me free:</l>
+                     <l>And gave me larger room, becauſe</l>
+                     <l>he took delight in me.</l>
+                     <pb n="30" facs="tcp:187768:20"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>20</label> He knew me righteous, and as ſuch,</l>
+                     <l>he had to me regard:</l>
+                     <l>And to the cleanneſs of my hands,</l>
+                     <l>proportion'd his reward.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>21</label> Becauſe in his preſcribed ways,</l>
+                     <l>with conſtant care I trod:</l>
+                     <l>And have not, as the wicked doth,</l>
+                     <l>departed from my God;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>22</label> But always did before mine eyes,</l>
+                     <l>his righteous judgments lay:</l>
+                     <l>Nor ever did, as rules too ſtrict,</l>
+                     <l>his ſtatutes put away.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>23</label> I alſo did my uprightneſs</l>
+                     <l>Clear up before his face:</l>
+                     <l>And ſhun'd that ſin, to which, in my</l>
+                     <l>ſad ſtraits I tempted was.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>24</label> The Lord did therefore righteouſly</l>
+                     <l>my righteous deeds requite:</l>
+                     <l>To ſuit the cleanneſs of my hands,</l>
+                     <l>Appearing in his ſight.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>25</label> For thou, to men that mercy ſhew,</l>
+                     <l>wilt ſhew thy mercy too:</l>
+                     <l>And with the upright, as becomes</l>
+                     <l>an upright friend, wilt do.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>26</label> Thy love to purity, the pure</l>
+                     <l>Shall by experience know:</l>
+                     <l>But thoſe that ſtrive with thee, ſhall find</l>
+                     <l>thee much too ſtrong a foe.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>27</label> For thou wilt ſave the humble, when</l>
+                     <l>they under trouble lie:</l>
+                     <l>And ſoon bring down the looks of thoſe</l>
+                     <l>that have a lofty eye.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>28</label> My lamp, when kindled at thy flame,</l>
+                     <l>ſhall burn exceeding bright:</l>
+                     <pb n="31" facs="tcp:187768:20"/>
+                     <l>And when my way is dark, the Lord</l>
+                     <l>my God, ſhall make it light.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>29</label> For through thy help, an hoſt, by me</l>
+                     <l>diſcomfited, did fall:</l>
+                     <l>And God aſſiſting, I o'rleapt</l>
+                     <l>with eaſe, the higheſt wall.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>30</label> The way of God moſt perfect is;</l>
+                     <l>his word is throughly try'd:</l>
+                     <l>A ſure defence he is, to ſuch</l>
+                     <l>who in his faith abide.</l>
+                  </lg>
+               </div>
+               <div n="4" type="part">
+                  <head>
+                     <hi>PART</hi> iv.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>31</label> Who is a God, except the Lord?</l>
+                     <l>beſides him there is none.</l>
+                     <l>And who a rock, which, like our God,</l>
+                     <l>men may depend upon?</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>32</label> 'Tis he that girded me with ſtrength,</l>
+                     <l>to grapple with my foes:</l>
+                     <l>And in the way which perfect is,</l>
+                     <l>my feet he doth diſpoſe.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>33</label> He makes my feet like thoſe of hinds,</l>
+                     <l>exceeding ſwift of pace:</l>
+                     <l>And helps me ſteepeſt hills to climb,</l>
+                     <l>my foes from thence to chaſe.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>34</label> To handle weapons well in fight,</l>
+                     <l>Thou learn'ſt my hands the skill:</l>
+                     <l>And giv'ſt my arms the ſtrength, to break</l>
+                     <l>with eaſe, a bow of ſteel.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>35</label> Thou gav'ſt me thy ſalvations ſhield,</l>
+                     <l>To guard me, when beſet:</l>
+                     <l>Thy right hand held me up, and thy</l>
+                     <l>great kindneſs made me great.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>36</label> The ground my feet did traverſe, thou</l>
+                     <l>mad'ſt large for me, and wide:</l>
+                     <l>In ſlippery places oft they ſtood,</l>
+                     <l>and yet they did not ſlide.</l>
+                     <pb n="32" facs="tcp:187768:21"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>37</label> I did purſue, and overtake</l>
+                     <l>the foes that me annoy'd:</l>
+                     <l>And did not from the chaſe return,</l>
+                     <l>until they were deſtroy'd.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>38</label> Great numbers in the field did fall,</l>
+                     <l>I wounded them ſo ſore:</l>
+                     <l>Beneath my feet, they wounded fell,</l>
+                     <l>and roſe not any more.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>39</label> Thou girded'ſt me with ſtrength to fight,</l>
+                     <l>in ſuch ſucceſsful wiſe:</l>
+                     <l>As made them all to me to bow,</l>
+                     <l>that did againſt me riſe.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>40</label> The necks of thoſe that fought with me,</l>
+                     <l>are ſubject to my yoke.</l>
+                     <l>So fully I the armed force</l>
+                     <l>of all that hate me, broke.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>41</label> They cry'd for help; but none appear'd</l>
+                     <l>that would, or could relieve:</l>
+                     <l>Yea, to the Lord they cry'd: but he</l>
+                     <l>did them no anſwer give.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>42</label> Like duſt diſpers'd before the wind,</l>
+                     <l>They never more could meet:</l>
+                     <l>Caſt out and trod upon they were,</l>
+                     <l>as dirt in ev'ry ſtreet.</l>
+                  </lg>
+               </div>
+               <div n="5" type="part">
+                  <head>
+                     <hi>PART</hi> v.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>43</label> Thou quell'ſt my peoples ſtrifes: to make</l>
+                     <l>me King, they all agreed:</l>
+                     <l>Yea, over heathens, quite unknown</l>
+                     <l>to me, thou mad'ſt me Head.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>44</label> There needs no more, to make them bow,</l>
+                     <l>then th' hearing of my name:</l>
+                     <l>Though many, much againſt their wills,</l>
+                     <l>its awe doth only tame.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>45</label> Who, though they yet ſtand off, in time</l>
+                     <l>ſhall loſe their courage quite.</l>
+                     <pb n="33" facs="tcp:187768:21"/>
+                     <l>And fearful in their holds, for peace</l>
+                     <l>ſhall them agree to ſlight.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>46</label> I therefore bleſs the living Lord,</l>
+                     <l>who merits all my praiſe:</l>
+                     <l>My rock, my God that ſaveth me,</l>
+                     <l>my grateful ſong ſhall raiſe.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>47</label> Whoſe vengeance hath purſu'd my foes</l>
+                     <l>until deſtroy'd they be:</l>
+                     <l>And by his influence, ſubdu'd</l>
+                     <l>my people are to me.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>48</label> He from my foes delivereth me:</l>
+                     <l>thou curbd'ſt them as they roſe:</l>
+                     <l>Nor ſufferedſt, Lord, my life to be</l>
+                     <l>at violent <hi>Saul</hi>'s diſpoſe.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>49</label> Theſe favours great, I ever, Lord,</l>
+                     <l>with thanks acknowledg ſhall:</l>
+                     <l>And ſing this ſong to praiſe thy name,</l>
+                     <l>before the Gentiles all.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>50</label> "God, who by wonders ſaves him, doth,</l>
+                     <l>"and ſtill will ſhew more grace</l>
+                     <l>"To <hi>David,</hi> his <hi>Anointed;</hi> and</l>
+                     <l>"to all his future race.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="19" type="Psalm">
+               <head>
+                  <hi>Coeli enarrunt.</hi> Pſalm xix.</head>
+               <byline>T.S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> THE Heav'ns and Firmament above.</l>
+                  <l>God's glories do declare:</l>
+                  <l>The works of Pow'r omnipotent,</l>
+                  <l>in them conſpicuous are.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Thoſe glorious works of God, each day</l>
+                  <l>preſents in various dreſs:</l>
+                  <l>And ev'ry night ſuch ſights repeats,</l>
+                  <l>as do his skill expreſs.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> In all mens diff'ring languages,</l>
+                  <l>the fame of them is heard.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> To earth's moſt diſtant coaſts, thereby</l>
+                  <l>God's knowledge is conferr'd;</l>
+                  <pb n="34" facs="tcp:187768:22"/>
+                  <l>He built, and furniſh'd, for the ſun,</l>
+                  <l>in them a tiring room:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Who thence, as from his chamber doth</l>
+                  <l>a bridegroom trimm'd, doth come.</l>
+                  <l>And like a ſtrong-limb'd racer looks,</l>
+                  <l>who hoping for a prize,</l>
+                  <l>Before his courſe begins, doth view</l>
+                  <l>the race with cheerful eyes.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Thence thro' the Sky's wide compaſs, he</l>
+                  <l>bright beams abroad doth ſhoot:</l>
+                  <l>And nothing from his piercing heat</l>
+                  <l>is hid, the world throughout.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> Moſt perfect is the law of God:</l>
+                     <l>his teſtimony ſure;</l>
+                     <l>It Souls converts; and wiſdom true</l>
+                     <l>gives, ſimple men to cure.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> The righteous ſtatutes of the Lord,</l>
+                     <l>fill hearts with joys refin'd:</l>
+                     <l>Pure his commandment is; and clears</l>
+                     <l>mine eyes, by nature blind.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> God's fear is clean, and makes the ſoul</l>
+                     <l>from ſpots for ever free:</l>
+                     <l>His judgments altogether true,</l>
+                     <l>and ſtrictly righteous be.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> Much more to be deſir'd than gold;</l>
+                     <l>much gold, without allay:</l>
+                     <l>Ev'n honey dropping from the combes,</l>
+                     <l>is not ſo ſweet as they.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> By them thy ſervant is forewarn'd</l>
+                     <l>his duty to regard:</l>
+                     <l>Which thoſe that do perform, are ſure</l>
+                     <l>to gain a great reward.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> But, Lord, what man the errours knows</l>
+                     <l>to which expos'd he lies?</l>
+                     <pb n="35" facs="tcp:187768:22"/>
+                     <l>O cleanſe me then, from ſecret ſins,</l>
+                     <l>which 'ſcape my ſearching eyes.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> And keep me, that preſumptuous ſins</l>
+                     <l>prevail not over me:</l>
+                     <l>So ſhall I upright ſtand; and from</l>
+                     <l>the great tranſgreſſion free.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>14</label> Accept the words I utter, and</l>
+                     <l>good thoughts conceiv'd in heart,</l>
+                     <l>To praiſe thee, who my rock of ſtrength,</l>
+                     <l>and my Redeemer art.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="19" type="Psalm">
+               <head>Pſalm xix.</head>
+               <opener>In another Metre.</opener>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> THE Heav'ns and Firmament above,</l>
+                  <l>God's glories wondrouſly declare:</l>
+                  <l>The works of his Almighty Hand</l>
+                  <l>In them, to all conſpicuous are.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Thoſe glorious works of God, each day.</l>
+                  <l>Preſents to view in various dreſs:</l>
+                  <l>And ev'ry night repeats anew</l>
+                  <l>Thoſe Proſpects, which his skill expreſs.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> In all the diff'ring languages</l>
+                  <l>Men ſpeak, the fame of them is heard.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> To all the diſtant coaſts of earth,</l>
+                  <l>God's knowledge thus is ſtill confer'd.</l>
+                  <l>He built, and furniſh'd for the ſun,</l>
+                  <l>In them a glorious tiring room:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Who thence, as from his chamber doth</l>
+                  <l>A bridegroom richly trimm'd, doth come.</l>
+                  <l>And like a ſtrong-limb'd racer, looks;</l>
+                  <l>Who, full of hopes to win the prize</l>
+                  <l>Before his courſe begins, beholds</l>
+                  <l>The race in view, with cheerful eyes.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Thence, thro' the skies wide compaſs, he</l>
+                  <l>His beams diſperſeth round about:</l>
+                  <l>And nothing from his piercing heat</l>
+                  <l>Is hidden all the world throughout.</l>
+               </lg>
+               <div n="2" type="part">
+                  <pb n="36" facs="tcp:187768:23"/>
+                  <head>
+                     <hi>PART</hi> II.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> Moſt perfect is the law of God;</l>
+                     <l>His teſtimony ever ſure:</l>
+                     <l>Converting ſouls, and making wiſe</l>
+                     <l>The ſimple, paſt all other cure.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> The ſtatutes of the Lord are juſt,</l>
+                     <l>And fill the heart with joys refin'd:</l>
+                     <l>The Lord's commandment's pure; its light</l>
+                     <l>Enlightens eyes, by nature blind.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> God's fear is clean; its cleanſing pow'r</l>
+                     <l>Doth ſouls from ſpots for ever free:</l>
+                     <l>His judgments moſt compleatly true;</l>
+                     <l>And righteous altogether be.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> Much more deſirable than Gold:</l>
+                     <l>Yea, much refined gold they are:</l>
+                     <l>The honey dropping from the combs,</l>
+                     <l>In ſweetneſs they excel by far.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> By them, thy ſervant is forewarn'd,</l>
+                     <l>Himſelf from ſins aſſaults to guard:</l>
+                     <l>And where they are obſerved well,</l>
+                     <l>Th' obſervers meet with great reward.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> But, Lord, what man the errors knows</l>
+                     <l>To which we here obnoxious lye!</l>
+                     <l>O cleanſe me then from faults conceal'd,</l>
+                     <l>Which, tho' I ſearch, I can't eſpy.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> But chiefly, let preſumptuous ſins</l>
+                     <l>Get no dominion over me:</l>
+                     <l>So upright I, and innocent,</l>
+                     <l>Shall from the great tranſgreſſion be.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>14</label> Accept the words I utter, and</l>
+                     <l>The thoughts my heart doth muſe upon,</l>
+                     <l>Do, Lord, who both my rock of ſtrength,</l>
+                     <l>And my Redeemer art alone.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="20" type="Psalm">
+               <head>
+                  <hi>Exaudiat te Dominus.</hi> Pſalm xx.</head>
+               <byline>T.S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> IN trouble, and diſtreſs, the Lord</l>
+                  <l>thy heart's requeſts fulfil;</l>
+                  <pb n="37" facs="tcp:187768:23"/>
+                  <l>And may the name of <hi>Jacob</hi>'s God,</l>
+                  <l>O <hi>King,</hi> defend thee ſtill:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Vouchſafe thee from his holy place</l>
+                  <l>help ſuited to thy needs:</l>
+                  <l>And out of <hi>Zion</hi> ſtrengthen thee</l>
+                  <l>to do illuſtrious deeds:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Remembring all the ſacrifice,</l>
+                  <l>which thou to him haſt done:</l>
+                  <l>And th' off'ring which thou mak'ſt by fire,</l>
+                  <l>look graciouſly upon.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> According to thy heart's deſire,</l>
+                  <l>his bounty anſwer thee:</l>
+                  <l>Let what in Council thou decreeſt,</l>
+                  <l>by him performed be.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Rejoiced, when thou ſav'ſt us, we</l>
+                  <l>our banners will diſplay:</l>
+                  <l>In God's great Name: but under thee,</l>
+                  <l>For whoſe ſucceſs we'll pray.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> I know the Lord, with his right hand,</l>
+                  <l>will his anointed ſave.</l>
+                  <l>And give therewith, when need requires</l>
+                  <l>again, the help he gave.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> In charriots ſome put confidence,</l>
+                  <l>and ſome in horſes truſt:</l>
+                  <l>But we remember God, our Lord</l>
+                  <l>who to his word is juſt.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Their fall our faith forſees; whiles we</l>
+                  <l>by God aſſiſted, riſe.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> Still ſave us Lord: and let our king,</l>
+                  <l>we pray thee, hear our cries.</l>
+               </lg>
+            </div>
+            <div n="20" type="Psalm">
+               <head>Pſalm xx.</head>
+               <opener>To another Tune.</opener>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> IN trouble, and adverſity,</l>
+                  <l>The Lord thy juſt requeſts fulfil:</l>
+                  <l>And may the name of <hi>Jacob</hi>'s God,</l>
+                  <l>Dear ſov'reign thee defend from ill:</l>
+                  <pb n="38" facs="tcp:187768:24"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Vouchſafe thee, from his holy place,</l>
+                  <l>The help proportion'd to thy needs:</l>
+                  <l>And out of <hi>Zion</hi> ſtrengthen thee,</l>
+                  <l>To bring to paſs illuſtrious deeds.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Rememb'ring all the ſacrifice,</l>
+                  <l>By thee to him devoutly done:</l>
+                  <l>And th' off'ring which thou mak'ſt by fire,</l>
+                  <l>May He with favour look upon.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> According to thy hearts deſire,</l>
+                  <l>His richeſt bounties anſwer thee:</l>
+                  <l>And what in council thou decreeſt,</l>
+                  <l>May it by him performed be.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Rejoiced, when thou ſav'ſt us, we</l>
+                  <l>Our banners will again diſplay</l>
+                  <l>In God's great name; led on by thee,</l>
+                  <l>For whoſe ſucceſs we ſtill do pray.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Now, know I, God, with wonted grace,</l>
+                  <l>Again will his anointed ſave:</l>
+                  <l>And give from heaven with the ſame</l>
+                  <l>Right hand, to him, the help he gave.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> In charriots ſome put confidence:</l>
+                  <l>And ſome in ſtrength of horſes truſt:</l>
+                  <l>But we remember God our Lord,</l>
+                  <l>Who ever to his word is juſt.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Their fall our faith foreſees, while we</l>
+                  <l>By God, who lifts us up, do riſe:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> Still ſave us, Lord, do thou; and cauſe</l>
+                  <l>Our king to hear our righteous cries.</l>
+               </lg>
+            </div>
+            <div n="21" type="Psalm">
+               <head>
+                  <hi>Domine, in virtute.</hi> Pſal. xxi.</head>
+               <byline>T.S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> O Lord, how joyful is the king,</l>
+                  <l>when arm'd with ſtrength from thee!</l>
+                  <l>How heartily doth he rejoice,</l>
+                  <l>thereby ſecur'd to be!</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> For thou haſt given him whate'er</l>
+                  <l>it was he did deſire:</l>
+                  <pb n="39" facs="tcp:187768:24"/>
+                  <l>Of all his lips did ask, to him</l>
+                  <l>thou mad'ſt a grant entire.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Thou do'ſt prevent him with thy gifts,</l>
+                  <l>and bleſſings manifold:</l>
+                  <l>And on his royal head doſt ſet</l>
+                  <l>a crown of pureſt gold.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> He humbly asked life of thee,</l>
+                  <l>and it thou did'ſt ſecure:</l>
+                  <l>Annexing to it, length of days,</l>
+                  <l>for ever to endure.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Great is his glory, through thy help,</l>
+                  <l>who gav'ſt him ſaving aid:</l>
+                  <l>Great honour, and great majeſty,</l>
+                  <l>thou haſt upon him laid.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Thou gav'ſt him all felicity,</l>
+                  <l>ſecur'd from all decays:</l>
+                  <l>And with thy cheerful countenance,</l>
+                  <l>great joys in him did'ſt raiſe.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> Becauſe the King doth firmly truſt</l>
+                     <l>in God, he ſhall prevail:</l>
+                     <l>And through his grace that reigns on high,</l>
+                     <l>preſerv'd, he ſhall not quail.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> Thy hand, O king, ſhall find, and ſeize,</l>
+                     <l>all ſuch as thee withſtand:</l>
+                     <l>Both find them out, and puniſh them,</l>
+                     <l>ſhalt thou with thy right hand.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> Thou ſhalt deſtroy them when thy wrath</l>
+                     <l>doth like an oven fume:</l>
+                     <l>Yea, God's fierce wrath conjoin'd with thine,</l>
+                     <l>ſhall wholly them conſume.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> And thou ſhalt make from off the earth</l>
+                     <l>their iſſue to decreaſe:</l>
+                     <l>Till from among the ſons of men</l>
+                     <l>their ſeed do wholly ceaſe.</l>
+                     <pb n="40" facs="tcp:187768:25"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> Becauſe againſt thee miſchiefs great</l>
+                     <l>in thought they did project:</l>
+                     <l>But fail'd at laſt for want of pow'r,</l>
+                     <l>what they deſign'd t'effect.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> Whom thou, before thee, as a mark</l>
+                     <l>to ſhooot at, Lord, ſhalt place:</l>
+                     <l>And from thy charged bow-ſtring, aim</l>
+                     <l>directly at their face,</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> Be thou exalted, Lord, with ſtrength</l>
+                     <l>ſuch as to thee belongs:</l>
+                     <l>And we thy pow'r will magnifie,</l>
+                     <l>in our triumphant ſongs.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="22" type="Psalm">
+               <head>
+                  <hi>Deus, Deus mius.</hi> Pſal. xxii.</head>
+               <byline>T.S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> MY God, my God, for what by thee</l>
+                  <l>forſaken thus am I?</l>
+                  <l>Why help'ſt thou not, when I to thee</l>
+                  <l>with ſad complaints do cry?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> To thee, my God, ev'n all day long</l>
+                  <l>I earneſtly do call:</l>
+                  <l>Nor ceaſe I all the night; and yet</l>
+                  <l>thou hear'ſt me not at all.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Yet thou art holy ſtill; and in</l>
+                  <l>thy holy place do'ſt dwell:</l>
+                  <l>Where thou art daily entertain'd</l>
+                  <l>with praiſe from <hi>Iſrael.</hi>
+                  </l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> To thee, our Fathers old, with faith</l>
+                  <l>in dangers did repair.</l>
+                  <l>And as they fixt their truſt in thee,</l>
+                  <l>by thee they ſaved were.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> They were deliver'd always, when</l>
+                  <l>they called on thy name:</l>
+                  <l>Nor was the faith they had in thee,</l>
+                  <l>e'er put by thee to ſhame.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> But I, poor I, am now become</l>
+                  <l>more like a worm than man:</l>
+                  <pb n="41" facs="tcp:187768:25"/>
+                  <l>An out-caſt, whom the people ſcorn,</l>
+                  <l>with all the ſpite they can.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> All they that ſee me, do on me</l>
+                  <l>reproach with laughter lay:</l>
+                  <l>They wag their heads; and ſhooting out</l>
+                  <l>their ſcornful lips, they ſay,</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> "This man did truſt in God, that he</l>
+                  <l>"wou'd ſave him of his love:</l>
+                  <l>"But let him now deliver him,</l>
+                  <l>"if he his cauſe approve.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> But from my mother's womb was I</l>
+                  <l>by thee, O Lord, releaſt:</l>
+                  <l>And had no other hope, but thee,</l>
+                  <l>when ſucking on her breaſt.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> On thee, my guardian, from my birth,</l>
+                  <l>my parents me beſtow'd:</l>
+                  <l>And even from that infant ſtate,</l>
+                  <l>thou haſt been ſtill my God.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART.</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> Lord, do not now depart from me,</l>
+                     <l>beſet with bitter grief:</l>
+                     <l>For I have none but thee, from whom</l>
+                     <l>I may expect relief.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> For many Bulls ſurrounding, make</l>
+                     <l>at me, with armed head:</l>
+                     <l>Bulls wanton-fat, as if they had</l>
+                     <l>in <hi>Baſhan</hi>'s fields been fed.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> With bellowing mouths they gape on me,</l>
+                     <l>as if they would me ſlay:</l>
+                     <l>Much like the roaring lion, when</l>
+                     <l>he ravens for his prey.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>14</label> My ſp'rits are ſpent; like water ſpilt,</l>
+                     <l>my bones aſunder ſtart:</l>
+                     <l>Like wax diſſolv'd by melting heat,</l>
+                     <l>within me is my heart.</l>
+                     <pb n="42" facs="tcp:187768:26"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>15</label> Dry'd, like a potſherd, is my ſtrength;</l>
+                     <l>my ſcorched tongue cleaves faſt</l>
+                     <l>Unto my jaws: ſo near me brought</l>
+                     <l>to brink of death thou haſt.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>16</label> The wicked did (like dogs to tear</l>
+                     <l>a carcaſs) me beſet:</l>
+                     <l>And with a barb'rous cruelty,</l>
+                     <l>they pierc'd my hands and feet.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>17</label> The torture ſtretch'd me ſo, that I</l>
+                     <l>might all my bones have told:</l>
+                     <l>Yet, pitileſs, with ſtaring eyes</l>
+                     <l>my torments they behold.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>18</label> They ſtrip me naked, and divide</l>
+                     <l>my clothes among them all:</l>
+                     <l>And for my coat they caſt the lot,</l>
+                     <l>to whom it whole ſhou'd fall.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>19</label> I pray thee therefore, be not far</l>
+                     <l>when thus thy help I need:</l>
+                     <l>But thou, O Lord, my ſtrength, aſſiſt</l>
+                     <l>my fainting ſoul with ſpeed.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>20</label> To guard me from the cruel ſword,</l>
+                     <l>employ, O Lord, thy pow'r:</l>
+                     <l>And ſave my precious ſoul, leſt it</l>
+                     <l>the teeth of dogs devour.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>21</label> From lions mouths me ſave, that elſe</l>
+                     <l>will me to pieces ſhiver:</l>
+                     <l>For thou from th' horns of Unicorn,</l>
+                     <l>didſt hear me, and deliver.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>22</label> Then I before my brethren all,</l>
+                     <l>thy mercies will proclaim:</l>
+                     <l>And where thy Church aſſembled is,</l>
+                     <l>will magnifie thy name.</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <head>
+                     <hi>PART</hi> iii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>23</label> Let all that do his fear profeſs,</l>
+                     <l>ſing praiſes to the Lord:</l>
+                     <pb n="43" facs="tcp:187768:26"/>
+                     <l>Extoll'd by <hi>Jacob</hi>'s ſeed be he,</l>
+                     <l>by <hi>Iſrael</hi> ador'd.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>24</label> For he th' afflicted ne'r deſpis'd;</l>
+                     <l>nor ever turn'd awry</l>
+                     <l>His countenance, when he did call;</l>
+                     <l>but hearkn'd to his cry.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>25</label> Amidſt the congregation great,</l>
+                     <l>I therefore will proclaim</l>
+                     <l>Thy praiſe, and pay my vows in ſight</l>
+                     <l>of thoſe that fear thy name:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>26</label> The meek ſhall eat their fill, of thoſe</l>
+                     <l>vow'd off'rings which I give:</l>
+                     <l>And you that ſeek, ſhall praiſe the Lord;</l>
+                     <l>and bleſt for ever live.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>27</label> The coaſts of all the earth ſhall turn</l>
+                     <l>to God, and ſeek his grace:</l>
+                     <l>And heathen kindreds, worſhipping,</l>
+                     <l>ſhall fall before his face.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>28</label> The Lord, as univerſal King,</l>
+                     <l>the earth throughout ſhall reign:</l>
+                     <l>And over all the nations, he</l>
+                     <l>the Sov'raignty ſhall gain.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>29</label> Yea, all, whom earths rich fatneſs feeds,</l>
+                     <l>ſhall likewiſe taſt of his:</l>
+                     <l>And eating, thankfully adore</l>
+                     <l>him, th' Author of their bliſs.</l>
+                     <l>And ſuch as wallow in the duſt,</l>
+                     <l>by poverty laid low,</l>
+                     <l>Shall own their ſouls by him do live,</l>
+                     <l>and humbly to him bow.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>30</label> Whoſe ſeed ſhall ſerve him, while the world's</l>
+                     <l>ſucceſſive ages laſt:</l>
+                     <l>Whom God ſhall count his own, when once</l>
+                     <l>by his Adoption grac'd:</l>
+                     <pb n="44" facs="tcp:187768:27"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>31</label> Each age, declaring to the next</l>
+                     <l>that comes, his righteouſneſs:</l>
+                     <l>So th' earth, by new births ſtockt, ſhall ſtill</l>
+                     <l>this work of his confeſs.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="23" type="Psalm">
+               <head>
+                  <hi>Dominus regit.</hi> Pſalm xxiii.</head>
+               <byline>W. W.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> THe Lord my heav'nly ſhepherd is;</l>
+                  <l>Whoſe paſtures to the full me feed:</l>
+                  <l>I cannot then want any thing,</l>
+                  <l>Whereof my ſoul doth ſtand in need.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> He doth me fold in ſheep-coats ſafe,</l>
+                  <l>Which to the tender graſs are nigh:</l>
+                  <l>Whence, fed, he drives me to the ſtreams</l>
+                  <l>Of pleaſant waters, running by.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> And when I feel my ſelf diſeas'd,</l>
+                  <l>With med'cines ſound he doth me make;</l>
+                  <l>And keeps me ſo, in righteous paths</l>
+                  <l>Me leading, for his own names ſake.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Whence, though my walks be near the do<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Of death, yet will I fear no ill:</l>
+                  <l>Sith thou art with me; and thy rod,</l>
+                  <l>And ſhepherds ſtaff me comfort ſtill.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Thou haſt my Table richly deckt,</l>
+                  <l>In ſpite of my repining foe:</l>
+                  <l>Thy oil anoints my head, and fill'd</l>
+                  <l>By thee, my cup doth overflow.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> And finally, whiles life doth laſt,</l>
+                  <l>Thy ſaving grace ſhall me defend:</l>
+                  <l>And in the houſe of God, will I</l>
+                  <l>That lifes remaining portion ſpend.</l>
+               </lg>
+            </div>
+            <div n="23" type="Psalm">
+               <head>Pſalm xxiii. <hi>Another of the ſame.</hi>
+               </head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> MY ſhepherd is the living Lord;</l>
+                  <l>I nothing then, can need.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> In paſtures fair, by waters calm,</l>
+                  <l>he ſetteth me to feed.</l>
+                  <pb n="45" facs="tcp:187768:27"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> He doth reſtore my drooping ſoul,</l>
+                  <l>And put my mind in frame,</l>
+                  <l>To walk in righteous paths; and bring</l>
+                  <l>due honour to his Name.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Yea, though I walk'd in ſhades of death,</l>
+                  <l>yet will I fear no ill;</l>
+                  <l>Thy rod, and ſtaff me comfort; whiles</l>
+                  <l>thou there art with me ſtill.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> And in the ſight of envious foes,</l>
+                  <l>my table thou doſt ſpread:</l>
+                  <l>Thy richeſt wines ſill full my cup;</l>
+                  <l>thy oil anoints my head.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Through all my life thy favour is</l>
+                  <l>ſo frankly ſhew'd to me:</l>
+                  <l>That in thy houſe, that life throughout,</l>
+                  <l>my dwelling place ſhall be.</l>
+               </lg>
+            </div>
+            <div n="24" type="Psalm">
+               <head>
+                  <hi>Domini eſt Terra.</hi> Pſalm xxiv.</head>
+               <byline>J. H.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> THe earth is all the Lords: and his</l>
+                  <l>all things that fill it, are:</l>
+                  <l>Yea, his is all the world, with all</l>
+                  <l>the creatures dwelling there.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> For firmly he hath founded it,</l>
+                  <l>above the ſeas to ſtand:</l>
+                  <l>And laying low the liquid floods,</l>
+                  <l>built over them the land.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Whom, therefore, of them all, will God</l>
+                  <l>admit to climb his hill?</l>
+                  <l>Or fix his ſtation in the place,</l>
+                  <l>where he inhabits ſtill?</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> The man, whoſe hands are clean, whoſe heart</l>
+                  <l>no darling luſts defile:</l>
+                  <l>Whoſe ſoul affects not vanity,</l>
+                  <l>nor ſwears he to beguile.</l>
+                  <pb n="46" facs="tcp:187768:28"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> The man ſo qualify'd, to bleſs,</l>
+                  <l>the Lord will have regard:</l>
+                  <l>And from his God, and Saviour, he</l>
+                  <l>ſhall have a juſt reward.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Him, God will reckon one of thoſe,</l>
+                  <l>who truly ſeek his face;</l>
+                  <l>That face, which <hi>Jacob</hi> ſought, and ſaw,</l>
+                  <l>whiles here he ran his race.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> Fly open, all ye gates: and thou,</l>
+                     <l>O everlaſting gate,</l>
+                     <l>Be open too; t'admit the King,</l>
+                     <l>that comes in glorious ſtate.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> What King is this, that comes in ſtate?</l>
+                     <l>it is the mighty Lord;</l>
+                     <l>The Lord of might; in battel ſtrong,</l>
+                     <l>to wield the two-edg'd ſword.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> Fly open all ye gates; and thou,</l>
+                     <l>O everlaſting gate,</l>
+                     <l>Be open too; t'admit the King,</l>
+                     <l>the King of glorious ſtate.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> Who is this King of glorious ſtate?</l>
+                     <l>the Lord of Hoſts it is:</l>
+                     <l>The King, whoſe robes all Kings do wear:</l>
+                     <l>and all their glory's his.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="25" type="Psalm">
+               <head>
+                  <hi>Ad Te, Domine.</hi> Pſalm xxv.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> I Lift my ſoul to thee,</l>
+                  <l>my God, and guide moſt juſt.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> O ſuffer me to take no ſhame;</l>
+                  <l>for I in thee do truſt.</l>
+                  <l>Nor let my foes rejoyce,</l>
+                  <l>and triumph over me.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Yea, ſuffer no man to be ſham'd,</l>
+                  <l>Of all that wait on thee.</l>
+                  <pb n="47" facs="tcp:187768:28"/>
+                  <l>But ſhame attend them all,</l>
+                  <l>who deal injuriouſly:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Thy paths, mean while, and holy ways,</l>
+                  <l>to me, O Lord, deſcry.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Direct me in thy truth,</l>
+                  <l>and teach me, Lord, its way:</l>
+                  <l>My Saviour, and my God art thou;</l>
+                  <l>On thee I wait all day.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Remember, gracious Lord,</l>
+                  <l>thy mercies manifold;</l>
+                  <l>And all thy loving kindneſſes,</l>
+                  <l>which ever were of old.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> But mind not, Lord, the faults,</l>
+                  <l>my youth was ſtain'd withal:</l>
+                  <l>No wandrings of that giddy age,</l>
+                  <l>to thy remembrance call.</l>
+                  <l>Nor let thy mercies be,</l>
+                  <l>to my deſerts confin'd:</l>
+                  <l>But with a goodneſs, worthy thee,</l>
+                  <l>Lord, have me in thy mind.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Both juſtice in the Lord</l>
+                  <l>and goodneſs great reſide:</l>
+                  <l>Which both induc'd him, ſinners in</l>
+                  <l>his holy way to guide.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> The humble he will teach,</l>
+                  <l>who his direction ſeek:</l>
+                  <l>With judgment ſound, to find his way,</l>
+                  <l>he will conduct the meek.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> For all the ways of God</l>
+                  <l>are truth, and mercy both,</l>
+                  <l>To thoſe, who keep his covenant,</l>
+                  <l>confirm'd with them by oath.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> Proportion'd to thy name,</l>
+                     <l>O Lord, I thee intreat</l>
+                     <pb n="48" facs="tcp:187768:29"/>
+                     <l>Great pardon grant me for my ſin,</l>
+                     <l>which is exceeding great.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> Who is't, that fears the Lord?</l>
+                     <l>his choice will God direct</l>
+                     <l>So ſurely, that he ſhall the ways</l>
+                     <l>which pleaſe him beſt, elect.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> His ſoul ſhall dwell at eaſe,</l>
+                     <l>and firm in goodneſs ſtand:</l>
+                     <l>And after his deceaſe, his ſeed</l>
+                     <l>inherit ſhall the land.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>14</label> To thoſe that fear the Lord,</l>
+                     <l>his ſecrets he will tell:</l>
+                     <l>And unto them, his covenants</l>
+                     <l>myſterious truths reveal.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>15</label> Mine eyes with ſtedfaſt faith,</l>
+                     <l>upon the Lord are ſet:</l>
+                     <l>For he it is, that from the net,</l>
+                     <l>ſhall pluck my ſnared feet.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>16</label> In mercy viſit me,</l>
+                     <l>who make to thee my moan:</l>
+                     <l>For deſolate, and comfortleſs,</l>
+                     <l>men leave me all alone.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>17</label> The troubles of my heart</l>
+                     <l>do many ways exceed:</l>
+                     <l>O reſcue me with help, as large,</l>
+                     <l>as my diſtreſſes need.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>18</label> Behold the miſery,</l>
+                     <l>and anguiſh I am in:</l>
+                     <l>And by thy pard'ning grace, remove</l>
+                     <l>the cauſe of both, my ſin.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>19</label> And, Lord, behold my foes,</l>
+                     <l>how much they ſtill increaſe:</l>
+                     <l>Who me purſue with hatred fierce,</l>
+                     <l>and cruel to exceſs.</l>
+                     <pb n="49" facs="tcp:187768:29"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>20</label> Preſerve my ſoul, and let</l>
+                     <l>thy grace deliver me:</l>
+                     <l>Nor let me e'r be put to ſhame,</l>
+                     <l>becauſe I truſt in thee.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>21</label> Yea, let integrity,</l>
+                     <l>and juſtice me protect:</l>
+                     <l>For in the practiſe of them both,</l>
+                     <l>I help from thee expect.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>22</label> Thy people to redeem,</l>
+                     <l>Lord, help from heaven ſend:</l>
+                     <l>And let thine <hi>Iſrael</hi> of all</l>
+                     <l>their troubles ſee an end.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="26" type="Psalm">
+               <head>
+                  <hi>Judica me, Domine.</hi> Pſalm xxvi.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> LOrd, be my judg, who know'ſt, that all</l>
+                  <l>my ways are ſtraight, and plain:</l>
+                  <l>Nor doubt I e'r to ſlide, or fall,</l>
+                  <l>for God will me ſuſtain.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Prove me, O Lord, I thee deſire,</l>
+                  <l>and ſearch me narrowly:</l>
+                  <l>My thoughts, and reins, as in the fire</l>
+                  <l>men gold examine, try.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Thy goodneſs laid before my face,</l>
+                  <l>I did behold always:</l>
+                  <l>And as thy truth directs my pace,</l>
+                  <l>have walked all my days.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> For company, I ne'r did chooſe</l>
+                  <l>to ſit with perſons vain:</l>
+                  <l>With falſe diſſemblers, I refuſe</l>
+                  <l>acquaintance to retain.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Ill livers congregation</l>
+                  <l>my ſoul deteſting, flies:</l>
+                  <l>And they, for me, ſhall ſit alone,</l>
+                  <l>who wicked things deviſe.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> I'll waſh my hands in innocence,</l>
+                  <l>and then approaching near</l>
+                  <pb n="50" facs="tcp:187768:30"/>
+                  <l>Thy altar, Lord, with confidence,</l>
+                  <l>preſent my off'ring there.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> My tongue ſhall likewiſe ſpread the praiſe,</l>
+                  <l>which doth belong to thee:</l>
+                  <l>Declaring, in what wondrous ways</l>
+                  <l>thou haſt been good to me.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Thy houſe to me was ever dear;</l>
+                  <l>none elſe I lov'd ſo well:</l>
+                  <l>That holy Sanctuary, where</l>
+                  <l>thine honour, Lord, doth dwell</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> O ſhut not up my ſoul with them,</l>
+                  <l>in ſin who take their fill:</l>
+                  <l>Nor yet my life among the men,</l>
+                  <l>who guiltleſs blood do ſpill:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> Whoſe hands in doing miſchief skill'd,</l>
+                  <l>no ſeaſon offer'd miſs:</l>
+                  <l>And, to promote injuſtice, fill'd</l>
+                  <l>with bribes their right hand is.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>11</label> But I, by righteous acts, intend</l>
+                  <l>t' approve my ſelf to thee:</l>
+                  <l>Have mercy on me, and defend</l>
+                  <l>mine innocence, and me.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>12</label> Whoſe feet thus fixed by thy grace,</l>
+                  <l>I hope, ſhall ſtand upright:</l>
+                  <l>For which, to thee I'll render praiſe,</l>
+                  <l>in all thy peoples ſight.</l>
+               </lg>
+            </div>
+            <div n="27" type="Psalm">
+               <head>
+                  <hi>Dominus-Lumen.</hi> Pſalm xxvii.</head>
+               <byline>J. H.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> GOd my ſalvation is, and light,</l>
+                  <l>why ſhould I be diſmay'd?</l>
+                  <l>He guards my life: what creatures might</l>
+                  <l>ſhall make me then afraid.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Whiles wicked men, my foes, whoſe ſtrength</l>
+                  <l>weak I could never quell,</l>
+                  <l>Made haſte to eat me up; at length</l>
+                  <l>they ſtumbled ſore, and fell.</l>
+                  <pb n="51" facs="tcp:187768:30"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Againſt me, though an hoſt ſhould lie</l>
+                  <l>encamp'd, I will not fear:</l>
+                  <l>Yea, boldly will, my cauſe to try,</l>
+                  <l>in battel pitcht, appear.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> One thing of God oft ask'd I have,</l>
+                  <l>and hope I ſhall obtain:</l>
+                  <l>Which ſtill I am reſolv'd to crave,</l>
+                  <l>till his conſent I gain:</l>
+                  <l>That I within his holy place,</l>
+                  <l>my life throughout may dwell:</l>
+                  <l>To ſee the beauty of his face,</l>
+                  <l>and learn my duty well.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> For he, in troublous times, ſhall hide</l>
+                  <l>me in his tent ſecure:</l>
+                  <l>Like which no rock, though fortify'd,</l>
+                  <l>my ſafety can aſſure.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> And well I know, th' Almighty's grace</l>
+                  <l>will, with reſiſtance ſtout,</l>
+                  <l>Enable me my foes to chaſe,</l>
+                  <l>which compaſs me about.</l>
+                  <l>Which done; within his temple, I</l>
+                  <l>will offer, and rejoyce:</l>
+                  <l>And there, to ſing his praiſe, apply</l>
+                  <l>my ſelf, with heart and voice.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> Lord hear the voice of my requeſt;</l>
+                     <l>when I to thee do call:</l>
+                     <l>And mercifully, when oppreſt,</l>
+                     <l>vouchſafe me help withall.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> 'Tis thy command, O Lord, that we</l>
+                     <l>in ſtraits, do ſeek thy grace:</l>
+                     <l>And oft my heart hath ſaid to thee,</l>
+                     <l>I vow to ſeek thy face.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> Turn not that face in wrath away</l>
+                     <l>nor far from me it hide:</l>
+                     <pb n="52" facs="tcp:187768:31"/>
+                     <l>Thou ſtill haſt ſav'd me, and I pray,</l>
+                     <l>be ſtill, my God, and guide.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> Should both my Parents me forſake,</l>
+                     <l>and caſt me off at large:</l>
+                     <l>Yet on himſelf the Lord will take</l>
+                     <l>of me the care, and charge.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> O teach me, Lord, the way to thee,</l>
+                     <l>and lead me in't aright:</l>
+                     <l>Becauſe my foes ſet ſpies on me,</l>
+                     <l>to trap me if they might.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> And ne'r reſign me to the will</l>
+                     <l>of ſuch deceitful foes:</l>
+                     <l>Who, perjur'd, ſtick not all that's ill</l>
+                     <l>againſt me to depoſe.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13</label> My heart would faint; but that in me</l>
+                     <l>this faith is fixed faſt,</l>
+                     <l>That I the Lords good grace ſhall ſee</l>
+                     <l>Yet, e're this life be paſt.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>14</label> Soul, wait on God, and ne'r deſert</l>
+                     <l>his intereſts through fear:</l>
+                     <l>Wait ſtill on him, and he thy heart</l>
+                     <l>with ſtrengthn'ing grace ſhall cheer.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="28" type="Psalm">
+               <head>
+                  <hi>Ad Te, Domine.</hi> Pſalm xxviii.</head>
+               <byline>T.S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> THou art, O Lord, my rock; from thee</l>
+                  <l>my cries an anſwer crave:</l>
+                  <l>Neglect me not, leſt I become</l>
+                  <l>like ſick men, near the grave.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> The voice of thy Petitioner</l>
+                  <l>Lord, hear, when I intreat;</l>
+                  <l>And lift my craving hands, before</l>
+                  <l>thy holy mercy-ſeat.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> With wicked, and deceitful men,</l>
+                  <l>aſſign me not a part:</l>
+                  <l>Who, ſpeaking fair, (like deareſt friends)</l>
+                  <l>hide miſchief in their heart.</l>
+                  <pb n="53" facs="tcp:187768:31"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Repay their plotted wickedneſs</l>
+                  <l>unto themſelves in kind:</l>
+                  <l>And th' ill they did, or would have done,</l>
+                  <l>to others, let them find.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Becauſe they ſlight, and diſregard</l>
+                  <l>the work which God hath wrought:</l>
+                  <l>He will, the hopes they build upon,</l>
+                  <l>deſtroy, and bring to nought.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> With grateful heart, return my thanks</l>
+                  <l>unto the Lord will I:</l>
+                  <l>Who, when I pray'd in troubles great,</l>
+                  <l>did hear me readily.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> The Lord hath ſhewn himſelf my ſtrength</l>
+                  <l>and buckler in diſtreſs:</l>
+                  <l>My faith obtain'd his help; which I</l>
+                  <l>with ſongs of praiſe confeſs.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> The good man's ſtrong defence is he</l>
+                  <l>againſt his enemies:</l>
+                  <l>In him alone, the ſaving ſtrength</l>
+                  <l>of his Anointed lies.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> Thy people ſave, O Lord, and bleſs</l>
+                  <l>thine own inheritance:</l>
+                  <l>For ever, let thy bounty feed,</l>
+                  <l>and power them advance.</l>
+               </lg>
+            </div>
+            <div n="29" type="Psalm">
+               <head>
+                  <hi>Afferte Domino.</hi> Pſalm xxix.</head>
+               <byline>T. S.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> GIve to the Lord, ye Potentates,</l>
+                  <l>what praiſe to him ye owe:</l>
+                  <l>The honour of his mighty ſtrength,</l>
+                  <l>upon the Lord beſtow.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> The glory due unto his name,</l>
+                  <l>beſtow on him alone:</l>
+                  <l>Adore him in the beauteous ſeat,</l>
+                  <l>where ſtands his holy throne.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> God's voice doth rule the waters, bred</l>
+                  <l>above, as he doth pleaſe:</l>
+                  <pb n="54" facs="tcp:187768:32"/>
+                  <l>His thundring voice doth rend the air,</l>
+                  <l>and raiſe the ſtormy ſeas.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> A voice it is, of greateſt force,</l>
+                  <l>Which he from thence doth vent:</l>
+                  <l>And by th' effects produced, ſpeaks</l>
+                  <l>him God omnipotent.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> The voice of God in pieces tears</l>
+                  <l>the cedars great, and long:</l>
+                  <l>Yea, from the tops of <hi>Lebanon,</hi>
+                  </l>
+                  <l>it rends the cedars ſtrong.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> He makes them skip, as doth a calf,</l>
+                  <l>or fole of th' unicorn:</l>
+                  <l>Yea, <hi>Lebanon</hi> and <hi>Sirion,</hi> th' hills,</l>
+                  <l>on which thoſe trees are born.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> His voice diſperſeth ſubtil fires</l>
+                  <l>Through th' Air, with pointed flame:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Makes deſarts quake; ev'n that, which doth</l>
+                  <l>from <hi>Kadiſh</hi> takes its name.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> It makes the hinds to caſt their calves;</l>
+                  <l>turns woods to open ground:</l>
+                  <l>Great works! which in his temple make</l>
+                  <l>his praiſe from all to ſound.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> The Lord, upon the floods doth ſit,</l>
+                  <l>and all of them commands:</l>
+                  <l>His royal throne for evermore,</l>
+                  <l>to all, ſuperiour ſtands.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>11</label> The Lord ſhall make his people dear</l>
+                  <l>in power to increaſe:</l>
+                  <l>And give them all good things, compris'd</l>
+                  <l>in firm, and laſting peace.</l>
+               </lg>
+            </div>
+            <div n="29" type="Psalm">
+               <head>Pſalm xxix.</head>
+               <opener>To another Tune.</opener>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> GIve to the Lord, ye Potentates</l>
+                  <l>who are his Deputies below,</l>
+                  <l>Due praiſe, and th' honour of his ſtrength</l>
+                  <l>upon the Almighty Lord beſtow.</l>
+                  <pb n="55" facs="tcp:187768:32"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Give Glory to his holy name,</l>
+                  <l>The Glory due to him alone:</l>
+                  <l>And worſhip him, in th' holy place,</l>
+                  <l>Where he hath fixt his glorious throne.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> His voice doth rule the waters, which</l>
+                  <l>Deſcend in ſtorms, as he doth pleaſe;</l>
+                  <l>Diſcharg'd from clouds by thunder-claps,</l>
+                  <l>Which rend the Air, and raiſe the ſeas.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> The voice of God is full of force,</l>
+                  <l>When from above he doth it vent:</l>
+                  <l>And by its terrible effects,</l>
+                  <l>Proclaimeth him omnipotent.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> His voice the cedars great, and tall,</l>
+                  <l>Tears up, and lays them all along:</l>
+                  <l>Yea, from the tops of <hi>Lebanon,</hi>
+                  </l>
+                  <l>He rends the cedars high, and ſtrong.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> He makes them skip, as doth a calf,</l>
+                  <l>Or wanton fole of th' Unicorn:</l>
+                  <l>Yea, <hi>Lebanon,</hi> and <hi>Sirion</hi> too,</l>
+                  <l>Thus skip, on which thoſe trees are born.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> His voice diſperſeth ſubtil fires,</l>
+                  <l>Which pierce the air with pointed flame:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>8</label> Makes wilderneſſes quake for fear;</l>
+                  <l>Ev'n <hi>Kadiſh</hi> wilderneſs, by name.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>9</label> It makes the hinds to caſt their calves,</l>
+                  <l>And foreſts turns to champaign ground:</l>
+                  <l>Great works! which in his temple make</l>
+                  <l>Each worſhipper his praiſe to ſound.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>10</label> The mighty Lord is there proclaim'd</l>
+                  <l>Sole Emperour of ſeas, and lands:</l>
+                  <l>And much above them both, his throne</l>
+                  <l>To endleſs days unmoved ſtands.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>11</label> The Lord ſhall make his people dear</l>
+                  <l>In power daily to increaſe:</l>
+                  <l>And give them all the bleſſings, which</l>
+                  <l>Attend a ſound, and laſting peace.</l>
+               </lg>
+            </div>
+            <div n="30" type="Psalm">
+               <head>
+                  <hi>Exaltabo te, Domine.</hi> Pſal. xxx.</head>
+               <byline>J. H.</byline>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> ALl praiſes, both with heart, and voice,</l>
+                  <l>O Lord, I give to thee:</l>
+                  <l>Who haſt not made my foes rejoyce;</l>
+                  <l>But haſt exalted me.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> O Lord, my God, to thee I cry'd,</l>
+                  <l>when ſore oppreſt with grief:</l>
+                  <l>And through thy cordial grace apply'd,</l>
+                  <l>I ſoon obtain'd relief.</l>
+                  <pb n="56" facs="tcp:187768:33"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> My parting ſoul thou called'ſt back,</l>
+                  <l>And did'ſt from death me ſave:</l>
+                  <l>Thou heald'ſt me, when I ſtrength did lack,</l>
+                  <l>to keep me from the grave.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> Sing praiſe to God, ye Saints, that try</l>
+                  <l>the goodneſs of the Lord:</l>
+                  <l>And in your thankful memory,</l>
+                  <l>His holineſs record.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> Whoſe wrath, in very little ſpace,</l>
+                  <l>when hotteſt, cools again:</l>
+                  <l>Whereas his ſoul-reviving grace,</l>
+                  <l>Doth long in ſtrength remain.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> For though in pangs of grief full ſore,</l>
+                  <l>Saints ſometimes ſpend a night:</l>
+                  <l>Yet doth the Lord again reſtore</l>
+                  <l>their joys, with morning light.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>
+                     <hi>PART</hi> ii.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6</label> When I enjoy'd the world at will,</l>
+                     <l>too apt I was to ſay,</l>
+                     <l>"This Sun-ſhine, I perſwade me, ſtill</l>
+                     <l>"will laſt, without decay.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> For thou, O Lord, of thy good grace,</l>
+                     <l>Had'ſt ſtrong my mountain made:</l>
+                     <l>But when thou turnd'ſt away thy face,</l>
+                     <l>my comforts ſoon decay'd.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> And thereupon, again I cry'd</l>
+                     <l>to thee, O Lord, for aid:</l>
+                     <l>Whoſe ears with ſore complaints I ply'd:</l>
+                     <l>and weeping, thus I ſaid:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label>"9 What gain'ſt thou by my blood, if I</l>
+                     <l>"through grief conſume my days?</l>
+                     <l>"Can duſt of death thee magnifie,</l>
+                     <l>"Or give thy truth its praiſe?</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label>"10 Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n hearken, Lord, and pity take</l>
+                     <l>"on me, I thee deſire:</l>
+                     <l>"And do not now my ſoul forſake,</l>
+                     <l>"whoſe needs thy help require.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11</label> Then turned'ſt thou my doleful tone</l>
+                     <l>into a cheerful voice:</l>
+                     <l>Said'ſt to my mourning weeds, begone</l>
+                     <l>and girded'ſt me with joys.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>12</label> For which, my ſoul unceſſantly.</l>
+                     <l>ſhall fill my tongue with praiſe.</l>
+                     <l>To thee, my Lord, and God: whom I</l>
+                     <l>will thank throughout my days.</l>
+                  </lg>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
